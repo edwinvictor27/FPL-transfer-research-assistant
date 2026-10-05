@@ -69,9 +69,6 @@ engine = create_engine(
 )
 
 
-# ============================
-# 5. LOAD INTO MYSQL
-# ============================
 
 fixtures_df.to_sql(
     "fixtures",
