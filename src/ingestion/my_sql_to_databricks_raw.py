@@ -54,13 +54,6 @@ try:
 
             # Upload CSV into the Databricks Workspace folder
             destination = f"{raw_folder}/{table_name}.csv"
-
-            '''client.workspace.upload(
-                path=destination,
-                file=csv_buffer,
-                format=ImportFormat.RAW,
-                overwrite=True
-            )'''
             
             csv_buffer.seek(0)
             client.workspace.upload(
@@ -83,4 +76,4 @@ try:
             )
 
 finally:
-    engine.dispose()
+    engine.dispose() 
