@@ -1,0 +1,668 @@
+player_id,player_first_name,player_last_name,player_display_name,total_clearances_blocks_interceptions,total_ball_recoveries,total_tackles,total_defensive_contributions,expected_goals_conceded_xgc,expected_goals_conceded_per_90_minutes,goals_conceded_per_90_minutes,saves_per_90_minutes,clean_sheets_per_90_minutes,defensive_contributions_per_90_minutes
+1,David,Raya Martín,Raya,7,71,1,0,4.65,0.78,0.83,2.17,0.5,0.0
+2,Kepa,Arrizabalaga Revuelta,Arrizabalaga,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Illan,Meslier,Meslier,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Gabriel,dos Santos Magalhães,Gabriel,40,18,6,46,4.65,0.78,0.83,0.0,0.5,7.67
+5,Jurriën,Timber,J.Timber,3,8,3,6,2.21,1.52,2.06,0.0,0.0,4.12
+6,William,Saliba,Saliba,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Myles,Lewis-Skelly,Lewis-Skelly,8,9,1,18,1.62,0.44,0.54,0.0,0.54,4.86
+8,Riccardo,Calafiori,Calafiori,14,14,8,22,4.38,0.79,0.91,0.0,0.54,3.98
+9,Piero,Hincapié,Hincapie,5,0,1,6,0.28,0.63,0.0,0.0,0.0,13.5
+10,Benjamin,White,White,13,14,9,22,1.75,0.42,0.48,0.0,0.48,5.25
+11,Cristhian,Mosquera,Mosquera,10,3,0,10,0.53,0.28,0.0,0.0,1.07,5.36
+12,Bukayo,Saka,Saka,11,21,7,39,4.2,0.75,0.89,0.0,0.53,6.94
+13,Declan,Rice,Rice,23,20,9,52,4.12,0.74,0.9,0.0,0.54,9.34
+14,Eberechi,Eze,Eze,0,5,0,5,1.33,1.41,0.0,0.0,0.0,5.29
+15,Martin,Ødegaard,Ødegaard,6,17,6,29,3.85,0.74,0.97,0.0,0.58,5.6
+16,Noni,Madueke,Madueke,1,6,1,8,0.77,0.61,0.8,0.0,0.0,6.37
+17,Mikel,Merino Zazón,Merino,1,9,0,10,0.96,1.05,0.0,0.0,0.0,10.98
+18,Gabriel,Martinelli Silva,Martinelli,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+19,Martín,Zubimendi Ibáñez,Zubimendi,5,3,4,12,1.38,1.4,0.0,0.0,0.0,12.13
+20,Max,Dowman,Dowman,0,0,0,0,0.31,3.1,0.0,0.0,0.0,0.0
+22,Ethan,Nwaneri,Nwaneri,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+23,Fábio,Ferreira Vieira,Fábio Vieira,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+24,Reiss,Nelson,Nelson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Viktor,Gyökeres,Gyökeres,0,4,1,5,0.68,1.09,0.0,0.0,0.0,8.04
+26,Kai,Havertz,Havertz,6,7,0,13,4.51,0.81,0.9,0.0,0.54,2.34
+27,Gabriel,Fernando de Jesus,G.Jesus,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+31,Ezri,Konsa Ngoyo,Konsa,25,12,8,33,4.12,1.0,1.21,0.0,0.24,8.01
+452,Bruno,Guimarães Rodriguez Moura,Bruno G.,4,13,1,18,2.21,1.33,1.8,0.0,0.0,10.8
+557,Christos,Tzolis,Tzolis,7,12,4,23,2.73,0.68,0.99,0.0,0.5,5.72
+29,Marco,Bizot,M.Bizot,2,6,0,0,3.77,3.77,4.0,3.0,0.0,0.0
+30,Lucas,Digne,Digne,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+32,Matty,Cash,Cash,14,5,11,25,7.01,1.63,2.1,0.0,0.23,5.83
+33,Tyrone,Mings,Mings,28,10,4,32,5.49,1.41,1.54,0.0,0.26,8.21
+34,Pau,Torres,Pau,8,9,1,9,4.79,2.31,2.41,0.0,0.0,4.33
+35,Lamare,Bogarde,Bogarde,1,0,0,1,0.22,1.24,0.0,0.0,0.0,5.62
+36,Ian,Maatsen,Maatsen,17,10,7,24,6.54,1.76,1.88,0.0,0.27,6.45
+37,Victor,Lindelöf,Lindelöf,35,9,1,36,10.28,1.71,1.83,0.0,0.17,6.0
+38,Andrés,García,A.García,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+39,Kosta,Nedeljkovic,Nedeljkovic,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+41,Emiliano,Buendía Stati,Buendía,5,27,12,44,8.52,1.65,1.75,0.0,0.19,8.53
+44,Leon,Bailey,Bailey,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+45,John,McGinn,McGinn,9,21,6,36,9.35,1.61,1.55,0.0,0.34,6.18
+46,Ross,Barkley,Barkley,5,18,7,30,7.51,2.17,2.31,0.0,0.29,8.65
+47,Boubacar,Kamara,Kamara,18,21,10,49,9.5,1.6,1.52,0.0,0.34,8.27
+48,Amadou,Onana,Onana,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+49,Samuel,Iling-Junior,Iling Jr,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+50,Bradley,Burrowes,Burrowes,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+51,George,Hemmings,George Hemmings,3,10,6,19,6.26,1.9,2.12,0.0,0.3,5.76
+52,Alysson Edward Franco,da Rocha dos Santos,Alysson,2,4,2,8,2.55,2.52,1.98,0.0,0.0,7.91
+53,Johan,Manzambi,Manzambi,2,9,2,13,2.45,1.2,1.48,0.0,0.49,6.39
+54,Joao,Gomes,Gomes,7,6,10,23,5.05,2.12,3.36,0.0,0.0,9.67
+55,Ollie,Watkins,Watkins,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+56,Tammy,Abraham,Abraham,0,1,1,2,2.69,3.41,3.8,0.0,0.0,2.54
+160,Alejandro,Garnacho Ferreyra,Garnacho,0,2,0,2,0.49,1.42,0.0,0.0,0.0,5.81
+166,Nicolas,Jackson,N.Jackson,1,8,2,11,3.81,0.91,0.96,0.0,0.24,2.63
+582,Brian,Madjo,Madjo,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+596,Matteo,Ruggeri,Ruggeri,20,12,2,22,2.48,1.41,1.71,0.0,0.0,12.53
+597,Zion,Suzuki,Suzuki,13,51,0,0,6.51,1.3,1.4,3.6,0.2,0.0
+606,Triston,Rowe,Rowe,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+607,Luka,Lynch,Lynch,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+611,Aaron,Wan-Bissaka,Wan-Bissaka,15,2,11,26,3.91,1.79,1.37,0.0,0.0,11.88
+618,Leon,Goretzka,Goretzka,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+630,Taylor,Harwood-Bellis,Harwood-Bellis,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+631,Ibrahim,Mbaye,Mbaye,1,2,2,5,2.04,3.11,6.1,0.0,0.0,7.63
+667,James,Wright,Wright,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+57,Đorđe,Petrović,Petrović,7,50,0,0,8.05,1.34,2.17,2.0,0.0,0.0
+58,Fraser,Forster,Forster,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+59,Will,Dennis,Dennis,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+60,James,Hill,Hill,48,16,13,61,8.05,1.34,2.17,0.0,0.0,10.17
+61,Adrien,Truffert,Truffert,32,26,21,53,8.05,1.36,2.2,0.0,0.0,8.95
+62,Bafodé,Diakité,Diakité,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+63,Veljko,Milosavljevic,Milosavljević,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+64,Adam,Smith,Smith,18,16,5,23,7.8,1.39,2.32,0.0,0.0,4.1
+65,Julián,Araujo Zúñiga,J.Araujo,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+66,Julio,Soler Barreto,Soler,0,2,1,1,0.0,0.0,0.0,0.0,0.0,15.0
+67,Rayan Vitor,Simplício Rocha,Rayan,8,4,6,18,7.45,1.28,2.06,0.0,0.0,3.09
+68,Marcus,Tavernier,Tavernier,6,29,12,47,7.64,1.39,2.36,0.0,0.0,8.53
+69,Alex,Scott,Scott,15,36,9,60,6.82,1.38,1.41,0.0,0.2,12.11
+70,Justin,Kluivert,Kluivert,2,16,4,22,4.48,1.37,0.92,0.0,0.61,6.73
+71,Lewis,Cook,Cook,9,8,1,18,4.2,1.92,0.46,0.0,0.91,8.22
+72,Ben,Gannon-Doak,Gannon-Doak,0,9,3,12,1.26,1.99,6.32,0.0,0.0,18.95
+73,Tyler,Adams,Adams,15,25,7,47,3.84,0.94,2.93,0.0,0.0,11.46
+74,David,Brooks,Brooks,2,5,1,8,1.18,1.18,4.0,0.0,0.0,8.0
+75,Ryan,Christie,Christie,5,20,2,27,2.74,1.42,3.62,0.0,0.0,13.97
+76,Alex,Tóth,Tóth.A,0,1,1,2,0.56,2.96,10.59,0.0,0.0,10.59
+77,Amine,Adli,Adli,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+78,Junior,Kroupi,Kroupi.Jr,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+79,Francisco Evanilson,de Lima Barbosa,Evanilson,13,18,4,35,7.55,1.32,1.75,0.0,0.35,6.13
+80,Enes,Ünal,Enes Ünal,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+81,Álvaro,Rodríguez,Rodríguez,1,3,0,4,0.18,0.58,3.21,0.0,0.0,12.86
+566,António João,Pereira de Albuquerque Tavares da Silva,Silva,54,21,7,61,8.05,1.34,2.17,0.0,0.0,10.17
+573,Juanlu,Sánchez,Sanchez,0,1,1,1,0.0,0.0,0.0,0.0,0.0,5.0
+608,Daniel,Jebbison,Jebbison,0,1,0,1,0.61,1.77,5.81,0.0,0.0,2.9
+615,Michele,Di Gregorio,Di Gregorio,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+82,Caoimhín,Kelleher,Kelleher,9,44,0,0,8.6,1.43,1.0,3.67,0.33,0.0
+83,Hákon Rafn,Valdimarsson,Valdimarsson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+84,Nathan,Collins,Collins,15,11,2,17,2.13,0.98,0.46,0.0,0.46,7.81
+85,Sepp,van den Berg,Van den Berg,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+86,Keane,Lewis-Potter,Lewis-Potter,18,19,6,43,7.56,1.44,0.95,0.0,0.38,8.2
+87,Kristoffer,Ajer,Ajer,53,18,6,59,8.6,1.43,1.0,0.0,0.33,9.83
+88,Michael,Kayode,Kayode,17,18,4,21,5.52,1.29,0.7,0.0,0.47,4.92
+89,Rico,Henry,Henry,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+90,Aaron,Hickey,Hickey,18,10,4,22,3.73,1.7,1.83,0.0,0.0,10.05
+92,Kim,Ji-soo,Ji-soo,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+93,Jannik,Schuster,Schuster,41,9,3,44,5.81,1.75,1.21,0.0,0.3,13.29
+94,Kevin,Schade,Schade,6,23,9,38,7.94,1.43,0.9,0.0,0.36,6.87
+95,Dango,Ouattara,O.Dango,10,19,5,34,3.22,1.43,0.89,0.0,0.45,15.15
+96,Mikkel,Damsgaard,Damsgaard,6,18,7,31,3.06,0.97,0.32,0.0,0.64,9.86
+97,Mathias,Jensen,Jensen,1,3,2,6,0.88,0.89,1.01,0.0,1.01,6.07
+98,Vitaly,Janelt,Janelt,33,27,18,78,8.6,1.43,1.0,0.0,0.33,13.0
+99,Antoni,Milambo,Milambo,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+100,Fábio,Freitas Gouveia Carvalho,Carvalho,0,0,0,0,0.13,3.9,0.0,0.0,0.0,0.0
+102,Yehor,Yarmoliuk,Yarmoliuk,9,14,7,30,6.45,2.06,1.6,0.0,0.32,9.57
+103,Josh,Dasilva,Dasilva,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+105,Jaidon,Anthony,Anthony,7,21,5,33,5.7,1.46,1.28,0.0,0.51,8.46
+106,Igor Thiago,Nascimento Rodrigues,Thiago,6,16,4,26,8.53,1.44,1.02,0.0,0.34,4.4
+107,Kaye,Furo,Furo,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+108,Callum,Wilson,Wilson,1,2,0,3,0.23,1.15,0.0,0.0,0.0,15.0
+565,Mamadou,Sangaré,M.Sangaré,16,26,17,59,4.97,1.25,1.0,0.0,0.25,14.79
+620,El Hadji Malick,Diouf,Diouf,4,5,4,8,2.91,2.03,1.4,0.0,0.0,5.58
+657,Gustavo,Nunes Fernandes Gomes,Nunes,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+660,Benjamin,Fredrick,Fredrick,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+661,Ellery,Balcombe,Balcombe,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+109,Bart,Verbruggen,Verbruggen,4,44,0,0,9.39,1.56,0.83,2.5,0.67,0.0
+111,Jason,Steele,Steele,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+113,Ferdi,Kadıoğlu,F.Kadıoğlu,20,14,2,22,8.27,1.76,1.07,0.0,0.64,4.69
+114,Olivier,Boscagli,Boscagli,29,18,4,33,9.02,1.61,0.89,0.0,0.71,5.89
+115,Maxim,De Cuyper,De Cuyper,10,23,9,19,9.15,1.68,0.92,0.0,0.73,3.49
+116,Lewis,Dunk,Dunk,25,15,3,28,7.24,1.67,1.15,0.0,0.46,6.46
+117,Diego,Coppola,Coppola,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+118,Igor Julio,dos Santos de Paulo,Igor,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+119,João Pedro,Loureiro da Costa,Costinha,6,1,1,7,1.17,1.17,0.0,0.0,0.0,7.0
+120,Michael,Svoboda,Svoboda,0,1,1,1,0.14,3.15,0.0,0.0,0.0,22.5
+121,Mitoma,Kaoru,Mitoma,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+122,Yankuba,Minteh,Minteh,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+123,Jack,Hinshelwood,Hinshelwood,0,1,2,3,0.19,0.27,0.0,0.0,1.43,4.29
+124,Pascal,Groß,Groß,12,12,12,36,9.39,1.56,0.83,0.0,0.67,6.0
+125,Georginio,Rutter,Georginio,1,6,2,9,1.03,0.87,0.0,0.0,0.85,7.64
+126,Matt,O'Riley,O'Riley,2,1,0,3,0.18,1.62,0.0,0.0,0.0,27.0
+127,Diego,Gómez Amarilla,Gomez,12,25,18,55,9.21,1.59,0.87,0.0,0.69,9.52
+128,Facundo,Buonanotte,Buonanotte,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+129,Yasin,Ayari,Ayari,5,16,2,23,6.36,1.36,0.21,0.0,0.86,4.93
+130,Mats,Wieffer,Wieffer,11,9,4,15,3.18,1.83,2.31,0.0,0.58,8.65
+132,Harry,Howell,Howell,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+133,Tom,Watson,Watson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+134,Nehemiah,Oriola,Oriola,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+135,Zadok,Yohanna,Yohanna,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+137,Stefanos,Tzimas,Tzimas,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+138,Charalampos,Kostoulas,Kostoulas,8,20,6,34,8.19,1.79,1.09,0.0,0.44,7.43
+139,Evan,Ferguson,Ferguson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+328,Pascal,Struijk,Struijk,12,8,2,14,2.18,1.27,0.0,0.0,0.58,8.18
+504,Luka,Vušković,Vuskovic,51,21,7,58,9.17,1.57,0.85,0.0,0.68,9.91
+594,Promise,David,David,0,0,0,0,0.14,0.55,0.0,0.0,0.0,0.0
+600,Ibrahim,Osman,Osman,0,3,1,4,0.32,0.72,2.25,0.0,0.0,9.0
+605,Malick,Yalcouyé,Yalcouyé,10,8,7,25,6.72,2.34,1.4,0.0,0.35,8.72
+614,Jaouen,Hadjam,Hadjam,0,1,1,1,0.0,0.0,0.0,0.0,0.0,45.0
+624,Amario,Cozier-Duberry,Cozier-Duberry,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+639,José María,Andrés Baixauli,Andrés,6,12,2,20,2.42,1.09,0.0,0.0,0.9,9.05
+652,Femi,Azeez,Azeez,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+658,Younes,Ibrahim,Ibrahim,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Emiliano,Martínez Romero,Martinez,1,52,0,0,8.87,1.77,2.2,4.2,0.0,0.0
+40,Morgan,Rogers,Rogers,7,29,8,44,10.05,1.74,2.25,0.0,0.0,7.62
+101,Jordan,Henderson,Henderson,7,10,1,18,4.03,2.02,2.0,0.0,0.0,9.0
+136,Danny,Welbeck,Welbeck,2,2,1,5,2.04,2.0,0.98,0.0,0.0,4.89
+140,Robert,Lynch Sánchez,Sánchez,1,5,0,0,1.33,1.33,2.0,4.0,0.0,0.0
+141,Filip,Jörgensen,Jörgensen,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+142,Reece,James,James,11,15,2,13,4.9,1.51,2.16,0.0,0.0,4.01
+143,Trevoh,Chalobah,Chalobah,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+144,Malo,Gusto,Gusto,11,13,4,15,3.52,1.16,2.3,0.0,0.0,4.93
+145,Wesley,Fofana,Fofana,40,11,7,47,5.65,1.63,2.02,0.0,0.0,13.56
+146,Benoît,Badiashile Mukinayi,B.Badiashile,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+148,Jorrel,Hato,Hato,11,9,7,18,4.81,1.68,3.14,0.0,0.0,6.28
+149,Levi,Samuels Colwill,Colwill,27,17,4,31,8.05,1.68,2.09,0.0,0.0,6.47
+150,Mamadou,Sarr,M.Sarr,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+151,Josh,Acheampong,Acheampong,15,14,11,26,6.1,1.77,2.32,0.0,0.0,7.52
+152,Marco,Palestra,Palestra,0,1,0,0,0.05,0.25,0.0,0.0,0.0,0.0
+154,Cole,Palmer,Palmer,4,26,9,39,10.08,1.71,2.21,0.0,0.0,6.64
+156,Pedro,Lomba Neto,Neto,9,17,8,34,7.96,1.73,1.96,0.0,0.0,7.39
+157,Estêvão,Almeida de Oliveira Gonçalves,Estêvão,0,1,1,2,1.06,3.29,3.1,0.0,0.0,6.21
+158,Jamie,Bynoe-Gittens,Gittens,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+159,Moisés,Caicedo Corozo,Caicedo,5,2,4,11,1.39,1.49,1.07,0.0,0.0,11.79
+161,Roméo,Lavia,Lavia,12,15,7,34,5.11,1.67,2.61,0.0,0.0,11.09
+163,Dário,Luís Essugo,D.Essugo,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+164,Geovany,Quenda,Quenda,1,0,0,1,1.29,4.3,6.67,0.0,0.0,3.33
+165,João Pedro,Junqueira de Jesus,João Pedro,3,10,1,14,7.49,1.56,2.09,0.0,0.0,2.92
+168,Marc,Guiu Paz,Marc Guiu,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+169,Shumaira,Mheuka,Mheuka,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+170,Emmanuel,Emegha,Emegha,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+200,Maxence,Lacroix,Lacroix,44,12,11,55,9.31,1.85,2.18,0.0,0.0,10.9
+560,Mike,Penders,Penders,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+561,Aaron,Anselmino,Anselmino,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+568,Valentín,Barco,Barco,4,5,3,12,2.83,2.21,2.35,0.0,0.0,9.39
+583,Pep,Chavarría,Chavarria,17,8,5,22,5.48,1.66,1.51,0.0,0.0,6.64
+662,Mahdi,Nicoll-Jazuli,Nicoll-Jazuli,0,0,2,2,0.43,12.9,30.0,0.0,0.0,60.0
+91,Ethan,Pinnock,Pinnock,44,7,4,48,8.41,2.03,1.94,0.0,0.24,11.61
+104,Frank,Onyeka,Onyeka,9,15,5,29,6.51,1.8,1.93,0.0,0.28,8.01
+110,Carl,Rushworth,Rushworth,4,63,0,0,10.47,1.74,1.83,2.17,0.17,0.0
+171,Oliver,Dovin,Dovin,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+172,Ben,Wilson,Wilson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+173,Bobby,Thomas,Thomas,70,20,4,74,9.93,1.7,1.71,0.0,0.34,12.64
+174,Liam,Kitching,Kitching,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+175,Milan,van Ewijk,van Ewijk,33,14,8,41,9.37,1.87,2.2,0.0,0.0,8.2
+176,Jay,Dasilva,Dasilva,19,16,7,26,10.47,1.76,1.85,0.0,0.17,4.38
+177,Kaine,Kesler-Hayden,Kesler-Hayden,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+178,Jake,Bidwell,Bidwell,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+179,Joel,Latibeaudiere,Latibeaudiere,2,0,0,2,0.02,1.8,0.0,0.0,0.0,180.0
+180,Luke,Woolfenden,Woolfenden,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+181,Miguel,Brau,Brau,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+182,Aurèle,Amenda,Amenda,23,11,1,24,7.53,1.88,2.5,0.0,0.0,6.0
+183,Jack,Rudoni,Rudoni,9,23,4,36,6.18,1.47,1.19,0.0,0.47,8.55
+184,Matt,Grimes,Grimes,15,18,10,43,10.11,1.73,1.71,0.0,0.17,7.37
+185,Tatsuhiro,Sakamoto,Sakamoto,2,5,2,9,1.07,1.6,3.0,0.0,0.0,13.5
+186,Ephron,Mason-Clark,Mason-Clark,6,11,0,17,4.62,1.43,0.93,0.0,0.31,5.26
+187,Josh,Eccles,Eccles,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+188,Victor,Torp,Torp,1,3,0,4,1.36,2.04,3.0,0.0,0.0,6.0
+189,George,Shepherd,Shepherd,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+190,Loum,Tchaouna,Tchaouna,6,11,1,18,3.23,1.38,1.28,0.0,0.0,7.68
+191,Raphael,Borges Rodrigues,Borges Rodrigues,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+192,Kai,Andrews,Andrews,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+193,Haji,Wright,Wright,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+194,Brandon,Thomas-Asante,Thomas-Asante,15,15,5,35,6.82,1.94,1.99,0.0,0.28,9.94
+195,Ellis,Simms,Simms,1,2,0,3,2.99,2.32,2.33,0.0,0.0,2.33
+196,Jahnoah,Markelo,Markelo,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+197,Norman,Bassette,Bassette,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+492,Taiwo,Awoniyi,Awoniyi,3,7,1,11,3.55,1.38,2.72,0.0,0.0,4.27
+575,Caleb,Yirenkyi,Yirenkyi,10,20,4,34,5.89,1.55,1.58,0.0,0.53,8.95
+584,Gustavo,Hamer,Hamer,0,2,1,3,0.82,2.31,2.81,0.0,0.0,8.44
+599,Sidiki,Cherif,Cherif,1,2,0,3,3.07,2.58,3.36,0.0,0.0,2.52
+623,Dan,Bentley,Bentley,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+655,Yann,Gboho,Gboho,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+656,Stephen,Mfuni,Mfuni,8,3,1,9,1.24,1.15,0.0,0.0,0.93,8.35
+42,Evann,Guessand,Guessand,1,0,1,2,0.34,0.57,1.67,0.0,0.0,3.33
+153,Axel,Disasi,Disasi,15,11,5,20,3.72,2.41,3.88,0.0,0.0,12.95
+198,Dean,Henderson,Henderson,6,31,0,0,6.47,2.16,2.67,4.0,0.0,0.0
+199,Walter,Benítez,Benitez,4,18,0,0,6.33,2.11,1.33,3.0,0.33,0.0
+202,Chris,Richards,Richards,56,17,8,64,12.8,2.13,2.0,0.0,0.17,10.67
+203,Jaydee,Canvot,Canvot,33,15,11,44,11.12,2.22,1.8,0.0,0.2,8.8
+204,Tyrick,Mitchell,Mitchell,20,28,18,38,11.68,2.07,1.94,0.0,0.18,6.72
+205,Borna,Sosa,Sosa,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+206,Chadi,Riad Dnanou,Chadi Riad,6,3,1,7,0.98,1.22,2.5,0.0,0.0,8.75
+207,Oscar,Mingueza,Mingueza,0,1,2,2,0.33,1.86,5.62,0.0,0.0,11.25
+208,Ismaïla,Sarr,Sarr,0,2,0,2,0.18,1.08,0.0,0.0,0.0,12.0
+210,Adam,Wharton,Wharton,18,18,12,48,12.25,2.1,1.88,0.0,0.17,8.21
+211,Yéremy,Pino Santos,Yeremy,6,20,7,33,10.15,2.35,1.62,0.0,0.23,7.63
+212,Will,Hughes,Hughes,3,3,1,7,1.12,3.48,3.1,0.0,0.0,21.72
+213,Jefferson,Lerma Solís,Lerma,13,8,3,24,4.04,2.98,1.48,0.0,0.0,17.7
+214,Daichi,Kamada,Kamada,6,28,13,47,12.07,2.05,1.87,0.0,0.17,7.98
+215,Justin,Devenny,Devenny,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+216,Romain,Esse,Esse,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+217,Matheus,França de Oliveira,M.França,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+218,Cheick,Doucouré,Doucouré,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+219,Jesurun,Rak-Sakyi,J.Rak-Sakyi,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+220,Rio,Cardines,Cardines,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+221,Joél,Drakes-Thomas,Drakes-Thomas,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+222,Jørgen,Strand Larsen,Strand Larsen,9,8,3,20,9.37,2.22,1.42,0.0,0.24,4.74
+223,Jean-Philippe,Mateta,Mateta,1,2,2,5,0.98,1.42,2.9,0.0,0.0,7.26
+224,Eddie,Nketiah,Nketiah,2,6,4,12,4.63,2.29,3.46,0.0,0.0,5.93
+225,Christantus,Uche,Uche,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+241,Dwight,McNeil,McNeil,4,3,0,7,1.3,1.38,3.18,0.0,0.0,7.41
+555,Remi,Matthews,Matthews,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+577,Takehiro,Tomiyasu,Tomiyasu,15,7,2,17,3.98,1.9,2.38,0.0,0.0,8.1
+588,Anan,Khalaili,Khalaili,26,30,22,48,11.75,2.25,1.73,0.0,0.19,9.21
+595,Zavier,Gozo,Gozo,0,0,1,1,0.68,2.19,6.43,0.0,0.0,3.21
+633,Honest,Ahanor,Ahanor,13,4,2,15,2.23,1.86,2.5,0.0,0.0,12.5
+643,Ben,Chilwell,Chilwell,1,0,0,1,1.12,3.48,3.1,0.0,0.0,3.1
+644,Quinten,Timber,Timber,8,20,13,41,8.9,2.34,1.57,0.0,0.26,10.76
+647,Darío,Osorio,Osorio,0,0,1,1,0.13,11.7,0.0,0.0,0.0,90.0
+21,Christian,Nørgaard,Nørgaard,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+209,Brennan,Johnson,Johnson,9,15,7,31,4.84,1.44,0.59,0.0,0.59,9.21
+226,Jordan,Pickford,Pickford,7,64,0,0,8.27,1.38,0.83,2.83,0.5,0.0
+227,Mark,Travers,Travers,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+228,Tom,King,King,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+229,James,Tarkowski,Tarkowski,55,21,13,68,8.27,1.38,0.83,0.0,0.5,11.33
+230,Jarrad,Branthwaite,Branthwaite,58,20,6,64,8.27,1.38,0.83,0.0,0.5,10.67
+231,Michael,Keane,Keane,5,5,2,7,1.33,1.33,2.0,0.0,0.0,7.0
+232,Jake,O'Brien,O'Brien,2,2,0,2,0.52,1.67,0.0,0.0,0.0,6.43
+233,Vitalii,Mykolenko,Mykolenko,25,30,14,39,6.94,1.39,0.6,0.0,0.6,7.8
+234,Nathan,Patterson,Patterson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+235,Adam,Aznou,Aznou,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+236,Kiernan,Dewsbury-Hall,Dewsbury-Hall,6,33,13,52,8.07,1.34,0.83,0.0,0.5,8.67
+238,Jack,Grealish,Grealish,2,12,4,18,3.0,1.23,1.23,0.0,0.41,7.36
+239,James,Garner,Garner,11,30,16,57,4.78,1.03,0.86,0.0,0.43,12.27
+242,Tyrique,George,George,5,14,1,20,3.92,1.06,1.08,0.0,0.54,5.41
+243,Carlos,Alcaraz Durán,Alcaraz,0,3,1,4,0.04,0.4,0.0,0.0,0.0,40.0
+244,Harrison,Armstrong,Armstrong,17,25,9,51,8.17,1.41,0.86,0.0,0.52,8.78
+245,Tyler,Dibling,Dibling,0,1,0,1,0.38,1.22,0.0,0.0,0.0,3.21
+246,Merlin,Röhl,Röhl,6,13,5,24,4.52,1.63,0.72,0.0,0.36,8.67
+247,Hayden,Hackney,Hackney,4,5,3,12,4.01,2.42,0.6,0.0,0.6,7.25
+248,Norberto Bercique,Gomes Betuncal,Beto,1,0,0,1,1.92,5.57,0.0,0.0,0.0,2.9
+249,Thierno,Barry,Barry,8,11,1,20,6.35,1.14,0.9,0.0,0.54,3.59
+649,Ainsley,Maitland-Niles,Maitland-Niles,11,7,6,17,3.23,1.14,1.06,0.0,0.71,6.02
+654,Braiden,Graham,Graham,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+250,Bernd,Leno,Leno,7,50,0,0,10.26,1.71,1.67,3.17,0.17,0.0
+251,Benjamin,Lecomte,Lecomte,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+252,Alfie,McNally,McNally,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+253,Joachim,Andersen,Andersen,18,9,2,20,4.35,2.06,2.37,0.0,0.0,9.47
+254,Antonee,Robinson,Robinson,18,20,13,31,9.08,1.9,1.68,0.0,0.21,6.5
+255,Jorge,Cuenca Barreno,J.Cuenca,9,3,1,10,2.24,2.24,3.0,0.0,0.0,10.0
+256,Kenny,Tete,Tete,9,3,1,10,1.8,1.38,1.54,0.0,0.0,7.69
+257,Calvin,Bassey,Bassey,31,22,10,41,10.26,1.71,1.67,0.0,0.17,6.83
+258,Timothy,Castagne,Castagne,23,18,6,29,6.81,1.5,1.54,0.0,0.44,6.4
+261,Alex,Iwobi,Iwobi,6,27,7,40,9.05,1.65,1.28,0.0,0.55,7.29
+262,Emile,Smith Rowe,Smith Rowe,1,2,0,3,1.12,2.46,4.39,0.0,0.0,6.59
+263,Kevin,Santos Lopes de Macedo,Kevin,1,5,4,10,1.75,2.1,3.6,0.0,0.0,12.0
+264,Oscar,Bobb,Bobb,5,18,10,33,6.82,1.47,1.29,0.0,0.86,7.11
+265,Sander,Berge,Berge,12,10,6,28,8.51,1.74,1.44,0.0,0.41,5.74
+266,Tom,Cairney,Cairney,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+268,Josh,King,King,5,19,7,31,8.92,1.61,1.26,0.0,0.54,5.58
+269,Ryan,Sessegnon,Sessegnon,7,9,1,8,2.95,1.9,1.93,0.0,0.0,5.14
+270,Harrison,Reed,Reed,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+271,Rodrigo,Muniz Carvalho,Muniz,3,0,0,3,1.37,2.37,5.19,0.0,0.0,5.19
+272,Jonah,Kusi-Asare,Kusi-Asare,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+569,Gonzalo,García,Gonzalo,7,10,2,19,9.18,1.62,1.23,0.0,0.53,3.35
+570,César,Palacios,Palacios,4,10,3,17,5.46,2.17,2.79,0.0,0.0,6.77
+580,Shea,Charles,Charles,23,25,6,54,7.28,1.76,1.21,0.0,0.48,13.03
+610,Luc,De Fougerolles,De Fougerolles,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+626,Macaulay,Zepa,Zepa,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+635,Hugo,Larsson,Larsson,2,3,1,6,1.13,2.54,6.75,0.0,0.0,13.5
+636,Manuel Ángel,Morán Ibáñez,Ángel,1,1,0,2,0.52,2.46,9.47,0.0,0.0,9.47
+650,David,Affengruber,Affengruber,28,10,6,34,4.03,1.34,1.0,0.0,0.33,11.33
+240,Tim,Iroegbunam,Iroegbunam,1,9,3,13,0.89,0.84,0.95,0.0,0.0,12.32
+273,Dillon,Phillips,Phillips,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+274,Jack,Butland,Butland,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+275,Harvey,Cartwright,Cartwright,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+276,Thimothée,Lo-Tutala,Lo-Tutala,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+277,John,Egan,Egan,56,14,9,65,8.95,1.53,1.02,0.0,0.51,11.1
+278,Charlie,Hughes,Hughes,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+279,Semi,Ajayi,Ajayi,26,18,8,34,8.11,1.42,1.05,0.0,0.53,5.96
+280,Lewie,Coyle,Coyle,9,15,4,13,7.9,1.62,1.23,0.0,0.41,2.67
+281,Cody,Drameh,Drameh,5,4,1,6,0.87,1.2,0.0,0.0,0.0,8.31
+282,Ryan,Giles,Giles,19,18,5,24,8.72,1.55,0.89,0.0,0.53,4.26
+283,Matty,Jacob,Jacob,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+284,Cathal,McCarthy,McCarthy,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+285,Paddy,McNair,McNair,2,1,0,2,0.96,3.32,0.0,0.0,0.0,6.92
+286,Mohamed,Belloumi,Belloumi,15,15,16,46,6.73,1.44,0.86,0.0,0.64,9.86
+287,Liam,Millar,Millar,2,1,1,4,0.87,1.57,0.0,0.0,0.0,7.2
+288,Kieran,Dowell,Dowell,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+289,Matt,Crooks,Crooks,10,7,10,27,4.96,1.67,1.69,0.0,0.34,9.1
+290,Regan,Slater,Slater,10,16,13,39,8.94,1.57,1.06,0.0,0.53,6.87
+291,Eliot,Matazo,Matazo,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+292,Abdülkadir,Ömür,Ömür,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+293,Abu,Kamara,Kamara,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+294,Óscar,Zambrano,Zambrano,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+295,Oli,McBurnie,McBurnie,9,13,4,26,8.89,1.51,1.02,0.0,0.51,4.41
+296,David,Akintola,Akintola,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+297,Darko,Gyabi,Gyabi,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+298,Enis,Destan,Destan,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+299,Mason,Burstow,Burstow,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+340,Joe,Gelhardt,Gelhardt,2,6,3,11,1.52,1.93,1.27,0.0,0.0,13.94
+556,Matt,Targett,Targett,0,1,0,0,0.07,1.26,0.0,0.0,0.0,0.0
+563,Hidemasa,Morita,Morita,4,3,0,7,1.11,1.66,0.0,0.0,0.0,10.5
+572,Konstantinos,Tzolakis,Tzolakis,3,80,1,0,9.08,1.51,1.0,3.5,0.5,0.0
+574,Jens,Hjertø-Dahl,Hjertø-Dahl,0,1,0,1,0.0,0.0,0.0,0.0,0.0,11.25
+576,Elliot,Stroud,Stroud,4,15,5,24,4.61,1.51,0.65,0.0,0.65,7.85
+585,Lucas,Herrington,Herrington,14,6,2,16,3.36,1.54,1.37,0.0,0.0,7.31
+586,Nobel,Mendy,Mendy,45,8,7,52,5.7,1.51,0.8,0.0,0.53,13.81
+589,Lucas,Gourna-Douath,Gourna-Douath,5,7,5,17,2.26,1.47,0.0,0.0,0.65,11.09
+617,Mohamed-Ali,Cho,Cho,1,1,0,2,0.98,1.22,1.25,0.0,0.0,2.5
+632,Ilyas,Ansah,Ansah,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+637,Robinio,Vaz,Vaz,0,2,0,2,0.33,1.24,0.0,0.0,0.0,7.5
+638,Brooke,Norton-Cuffy,Norton-Cuffy,1,4,0,1,0.3,0.79,0.0,0.0,0.0,2.65
+642,Sorba,Thomas,Thomas,1,15,2,18,3.71,1.64,2.21,0.0,0.0,7.94
+645,Christos,Mouzakitis,Mouzakitis,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+259,Issa,Diop,Diop,47,27,4,51,10.79,1.8,2.0,0.0,0.0,8.5
+267,Saša,Lukić,Lukić,20,19,11,50,9.18,1.69,2.02,0.0,0.0,9.18
+300,Christian,Walton,Walton,3,23,0,0,4.05,2.02,1.0,2.0,0.0,0.0
+301,Alex,Palmer,Palmer,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+302,David,Button,Button,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+303,Cédric,Kipré,Kipré,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+304,Dara,O'Shea,O'Shea,49,25,8,57,10.79,1.8,2.0,0.0,0.0,9.5
+305,Leif,Davis,Davis,24,11,4,28,10.79,1.8,2.0,0.0,0.0,4.67
+306,Jacob,Greaves,Greaves,25,12,5,30,6.74,1.7,2.52,0.0,0.0,7.56
+307,Ben,Johnson,Johnson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+308,Darnell,Furlong,Furlong,2,0,1,3,0.86,4.55,5.29,0.0,0.0,15.88
+309,Marcelino,Núñez,Núñez,8,10,3,21,3.48,2.24,2.57,0.0,0.0,13.5
+310,Azor,Matusiwa,Matusiwa,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+311,Wes,Burns,Burns,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+312,Jack,Taylor,Taylor,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+313,Jack,Clarke,Clarke,4,6,2,12,2.18,1.0,0.91,0.0,0.0,5.48
+314,Chiedozie,Ogbene,Ogbene,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+315,Abdul,Fatawu,Fatawu,8,11,9,28,7.79,1.99,2.56,0.0,0.0,7.16
+316,Emersonn,Correia da Silva,Emersonn,5,5,4,14,5.89,1.37,1.63,0.0,0.0,3.26
+317,George,Hirst,Hirst,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+318,Jaden,Philogene,Philogene,1,5,1,7,2.57,2.03,1.58,0.0,0.0,5.53
+319,Sam,Szmodics,Szmodics,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+320,Chuba,Akpom,Akpom,0,3,1,4,4.41,4.09,3.71,0.0,0.0,3.71
+321,Sindre,Walle Egeli,Walle Egeli,0,1,0,1,0.24,1.14,0.0,0.0,0.0,4.74
+322,Ali,Al-Hamadi,Al-Hamadi,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+323,Kasey,McAteer,McAteer,0,4,1,5,0.21,0.45,0.0,0.0,0.0,10.71
+324,Anis,Mehmeti,Mehmeti,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+554,Kayne,van Oevelen,Van Oevelen,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+562,Daizen,Maeda,Maeda,8,6,10,24,7.65,2.03,2.39,0.0,0.0,6.37
+564,Kjell,Scherpen,Scherpen,8,39,0,0,6.74,1.68,2.5,3.75,0.0,0.0
+571,Florentino Ibrain,Morris Luís,Florentino,4,3,4,11,2.35,2.3,0.98,0.0,0.0,10.76
+591,Julio,Enciso,Enciso,5,25,3,33,10.07,1.88,2.24,0.0,0.0,6.15
+592,Abdoul,Ouattara,Ouattara,10,19,5,15,4.94,2.01,1.22,0.0,0.0,6.11
+602,Cameron,Humphreys,Humphreys,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+619,Exequiel,Palacios,Palacios,15,25,11,51,5.51,1.64,2.09,0.0,0.0,15.2
+640,Zian,Flemming,Flemming,1,4,1,6,0.84,0.96,1.14,0.0,0.0,6.84
+260,Harry,Wilson,Wilson,3,4,4,11,4.48,2.46,0.55,0.0,0.55,6.04
+326,Lucas Estella,Perri,Perri,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+327,Jaka,Bijol,Bijol,21,7,3,24,3.57,1.91,1.07,0.0,0.54,12.86
+329,Joe,Rodon,Rodon,10,2,1,11,1.01,0.74,0.0,0.0,0.73,8.05
+330,Jayden,Bogle,Bogle,12,16,5,17,4.8,0.96,0.6,0.0,0.8,3.4
+331,Gabriel,Gudmundsson,Gudmundsson,7,15,10,17,6.16,1.62,0.79,0.0,0.53,4.47
+332,James,Justin,Justin,33,17,17,50,7.67,1.31,0.85,0.0,0.34,8.52
+333,Sebastiaan,Bornauw,Bornauw,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+334,Tarik,Muharemović,Muharemović,63,19,5,68,8.79,1.46,0.83,0.0,0.33,11.33
+335,Anton,Stach,Stach,28,24,16,68,8.5,1.42,0.67,0.0,0.5,11.4
+336,Noah,Okafor,Okafor,3,10,7,20,3.5,0.85,0.73,0.0,0.73,4.88
+337,Brenden,Aaronson,Aaronson,2,12,4,18,4.98,2.1,1.27,0.0,0.42,7.61
+338,Ethan,Ampadu,Ampadu,29,26,13,68,8.79,1.46,0.83,0.0,0.33,11.33
+339,Sean,Longstaff,Longstaff,0,0,0,0,0.35,3.15,9.0,0.0,0.0,0.0
+341,Wilfried,Gnonto,Gnonto,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+342,Jack,Harrison,Harrison,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+343,Daniel,James,James,1,4,0,5,1.61,2.79,1.73,0.0,0.0,8.65
+344,Ilia,Gruev,Gruev,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+345,Tanaka,Ao,Tanaka,12,14,10,36,4.37,1.21,0.83,0.0,0.55,9.97
+346,Dominic,Calvert-Lewin,Calvert-Lewin,11,15,0,26,7.18,1.27,0.71,0.0,0.53,4.6
+347,Lukas,Nmecha,Nmecha,0,5,1,6,4.02,4.82,1.2,0.0,0.0,7.2
+348,Joël,Piroe,Piroe,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+349,Mateo,Joseph Fernández-Regatillo,Mateo Joseph,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+385,James,Trafford,Trafford,7,69,0,0,8.79,1.46,0.83,4.0,0.33,0.0
+598,Nico,Elvedi,Elvedi,31,10,3,34,7.36,1.61,1.09,0.0,0.22,7.45
+603,Jayden,Lienou,Lienou,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+604,Alfie,Cresswell,Cresswell,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+625,Alex,Cairns,Cairns,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+629,Michael,Zetterer,Zetterer,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+641,Melvin,Bard,Bard,1,2,1,2,0.3,1.5,5.0,0.0,0.0,10.0
+648,Jean-Mattéo,Bahoya,Bahoya,0,0,0,0,0.41,7.38,0.0,0.0,0.0,0.0
+350,Alisson,Becker,A.Becker,11,53,0,0,7.4,1.23,1.17,2.5,0.5,0.0
+351,Giorgi,Mamardashvili,Mamardashvili,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+352,Freddie,Woodman,Woodman,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+353,Armin,Pecsi,Pecsi,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+354,Vitezslav,Jaros,Jaros,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+355,Harvey,Davies,Davies,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+356,Virgil,van Dijk,Virgil,47,21,5,52,7.4,1.23,1.17,0.0,0.5,8.67
+357,Jeremie,Frimpong,Frimpong,8,7,4,12,4.48,2.09,2.33,0.0,0.0,5.6
+358,Milos,Kerkez,Kerkez,27,13,11,38,6.93,1.31,1.33,0.0,0.38,7.2
+359,Joe,Gomez,Gomez,1,1,0,1,0.19,8.55,0.0,0.0,0.0,45.0
+360,Conor,Bradley,Bradley,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+361,Wellity,Lucky,Lucky,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+362,Jeremy,Jacquet,Jacquet,34,21,14,48,6.6,1.18,1.25,0.0,0.54,8.61
+363,Giovanni,Leoni,Leoni,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+364,Kostas,Tsimikas,Tsimikas,2,3,1,3,0.47,0.66,0.0,0.0,0.0,4.22
+365,Calvin,Ramsay,Ramsay,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+366,Florian,Wirtz,Wirtz,4,27,9,40,5.32,1.03,0.96,0.0,0.58,7.71
+367,Cody,Gakpo,Gakpo,9,15,8,32,5.51,1.34,0.97,0.0,0.49,7.78
+368,Dominik,Szoboszlai,Szoboszlai,13,22,6,41,5.99,1.23,0.82,0.0,0.61,8.39
+369,Rio,Ngumoha,Ngumoha,1,2,1,4,1.25,0.99,2.37,0.0,0.0,3.16
+370,Federico,Chiesa,Chiesa,0,0,0,0,0.19,8.55,0.0,0.0,0.0,0.0
+371,Ryan,Gravenberch,Gravenberch,13,15,5,33,2.44,0.87,1.79,0.0,0.0,11.83
+372,Alexis,Mac Allister,Mac Allister,13,24,12,49,6.13,1.39,1.14,0.0,0.45,11.14
+373,Curtis,Jones,C.Jones,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+374,Endo,Wataru,Endo,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+375,Trey,Nyoni,Nyoni,7,2,3,12,1.14,1.65,2.9,0.0,0.0,17.42
+376,Stefan,Bajčetić Maquieira,Bajcetic,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+377,Victor,Munoz,Munoz,8,10,4,22,5.91,1.53,1.3,0.0,0.26,5.71
+378,James,McConnell,McConnell,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+379,Alexander,Isak,Isak,3,3,1,7,5.82,1.27,0.87,0.0,0.65,1.53
+380,Hugo,Ekitiké,Ekitiké,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+381,Lewis,Koumas,Koumas,1,2,0,3,1.44,1.35,1.88,0.0,0.0,2.81
+382,Jayden,Danns,Danns,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+383,Harvey,Elliott,Elliott,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+579,Ronald,Araujo,Araujo,24,19,6,30,3.47,0.87,0.5,0.0,0.75,7.54
+627,Bradley,Barcola,Barcola,1,11,6,18,2.52,0.89,1.06,0.0,0.71,6.35
+155,Enzo,Fernández,Enzo,9,16,5,30,6.22,1.6,0.77,0.0,0.77,7.71
+237,Iliman,Ndiaye,Ndiaye,10,27,8,45,10.16,2.08,0.82,0.0,0.41,9.2
+384,Gianluigi,Donnarumma,Donnarumma,4,41,0,0,8.19,1.36,0.83,3.33,0.5,0.0
+386,Marcus,Bettinelli,Bettinelli,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+387,Nico,O'Reilly,O'Reilly,4,13,4,8,2.97,1.17,0.79,0.0,0.39,3.16
+388,Marc,Guéhi,Guéhi,30,22,3,33,8.19,1.36,0.83,0.0,0.5,5.5
+389,Matheus,Nunes,Matheus N.,21,11,5,26,5.61,1.67,0.89,0.0,0.59,7.72
+390,Rúben,dos Santos Gato Alves Dias,Rúben,29,18,1,30,8.19,1.36,0.83,0.0,0.5,5.0
+391,Joško,Gvardiol,Gvardiol,20,22,11,31,7.32,1.44,0.98,0.0,0.39,6.09
+392,Rayan,Aït-Nouri,Aït-Nouri,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+393,Abdukodir,Khusanov,Khusanov,9,13,8,17,2.68,0.9,0.67,0.0,0.34,5.71
+394,Max,Alleyne,Alleyne,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+395,Rico,Lewis,Lewis,2,0,0,2,0.55,0.88,1.61,0.0,0.0,3.21
+396,Vitor,de Oliveira Nunes dos Reis,Vitor Reis,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+397,Antoine,Semenyo,Semenyo,2,17,6,25,8.19,1.36,0.83,0.0,0.5,4.17
+398,Phil,Foden,Foden,2,8,4,14,1.91,0.79,0.83,0.0,0.0,5.81
+399,Rayan,Cherki,Cherki,3,12,3,18,5.94,1.36,0.92,0.0,0.46,4.13
+400,Jérémy,Doku,Doku,1,1,0,2,0.61,1.12,0.0,0.0,0.0,3.67
+402,Rodrigo 'Rodri',Hernandez Cascante,Rodrigo,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+404,Tijjani,Reijnders,Reijnders,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+406,Mateo,Kovačić,Kovačić,0,2,0,2,0.1,0.21,0.0,0.0,0.0,4.29
+407,Claudio,Echeverri,Echeverri,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+408,Kalvin,Phillips,Phillips,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+409,Divine,Mukasa,Mukasa,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+410,Jeremy,Monga,Monga,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+411,Erling,Haaland,Haaland,12,12,1,25,8.12,1.38,0.85,0.0,0.51,4.25
+481,Elliot,Anderson,Anderson,19,29,14,62,8.09,1.45,0.89,0.0,0.54,11.09
+587,Gerónimo,Rulli,Rulli,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+616,Ayyoub,Bouaddi,Bouaddi,3,3,0,6,0.44,1.24,0.0,0.0,0.0,16.88
+621,Ryan,McAidoo,McAidoo,0,2,2,4,0.02,0.16,0.0,0.0,0.0,32.73
+622,Kaden,Braithwaite,Braithwaite,0,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+628,Allan,Andrade Elias,Allan,0,0,0,0,0.07,0.63,0.0,0.0,0.0,0.0
+653,Floyd,Samba,Samba,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+43,Youri,Tielemans,Tielemans,11,38,12,61,7.45,1.46,1.57,0.0,0.0,11.93
+131,Carlos,Baleba,Baleba,4,6,2,12,0.33,0.96,2.9,0.0,0.0,34.84
+162,Andrey,Nascimento dos Santos,Andrey Santos,7,7,4,18,2.03,2.23,4.39,0.0,0.0,19.76
+325,Karl,Darlow,Darlow,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+412,Senne,Lammens,Lammens,6,44,0,0,8.42,1.4,1.5,3.0,0.0,0.0
+413,Altay,Bayındır,Bayindir,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+414,Tom,Heaton,Heaton,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+415,Patrick,Dorgu,Dorgu,8,4,8,20,3.38,1.78,3.16,0.0,0.0,10.53
+416,Matthijs,de Ligt,De Ligt,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+417,Diogo,Dalot Teixeira,Dalot,14,21,7,21,5.03,1.2,1.19,0.0,0.0,5.01
+418,Harry,Maguire,Maguire,36,25,4,40,8.42,1.4,1.5,0.0,0.0,6.67
+419,Lisandro,Martínez,Martinez,26,15,5,31,7.41,1.48,1.4,0.0,0.0,6.2
+420,Leny,Yoro,Yoro,12,7,5,17,2.38,2.68,2.25,0.0,0.0,19.12
+421,Ayden,Heaven,Heaven,1,4,2,3,1.01,1.0,1.98,0.0,0.0,2.97
+422,Noussair,Mazraoui,Mazraoui,4,3,2,6,2.08,1.93,3.71,0.0,0.0,5.57
+423,Luke,Shaw,Shaw,27,8,9,36,6.25,1.32,1.27,0.0,0.0,7.62
+424,Harry,Amass,Amass,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+425,Tyler,Fredricson,Fredricson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+426,Bruno,Borges Fernandes,B.Fernandes,4,25,6,35,8.42,1.4,1.5,0.0,0.0,5.83
+427,Bryan,Mbeumo,Mbeumo,8,15,5,28,8.42,1.4,1.5,0.0,0.0,4.67
+428,Matheus,Santos Carneiro da Cunha,Cunha,3,17,7,27,7.06,1.28,1.09,0.0,0.18,4.89
+429,Marcus,Rashford,Rashford,4,10,4,18,4.5,1.15,0.77,0.0,0.26,4.6
+430,Mason,Mount,Mount,0,1,0,1,0.0,0.0,0.0,0.0,0.0,9.0
+431,Amad,Diallo,Amad,1,2,1,4,1.29,2.0,0.0,0.0,0.0,6.21
+432,Kobbie,Mainoo,Mainoo,12,50,11,73,6.39,1.3,1.01,0.0,0.0,14.8
+433,Manuel,Ugarte Ribeiro,Ugarte,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+434,Jack,Fletcher,J.Fletcher,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+435,Shea,Lacey,Lacey,0,1,0,1,0.0,0.0,0.0,0.0,0.0,9.0
+436,Toby,Collyer,Collyer,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+437,Bendito,Mantato,Bendito Mantato,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+438,Tyler,Fletcher,Fletcher,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+439,Benjamin,Sesko,Šeško,0,5,0,5,2.0,2.37,3.55,0.0,0.0,5.92
+440,Joshua,Zirkzee,Zirkzee,2,4,0,6,0.35,0.62,1.76,0.0,0.0,10.59
+441,Chido,Obi,Obi,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+405,Nico,González Iglesias,N.Gonzalez,4,13,4,21,3.81,1.35,2.13,0.0,0.35,7.44
+442,Nick,Pope,Pope,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+443,Mark,Gillespie,Gillespie,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+444,Ewen,Jaouen,Jaouen,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+445,Malick,Thiaw,Thiaw,53,15,0,53,10.61,1.77,2.17,0.0,0.17,8.83
+446,Fabian,Schär,Schär,7,0,0,7,1.87,6.73,7.2,0.0,0.0,25.2
+447,Sven,Botman,Botman,63,15,6,69,10.61,1.77,2.17,0.0,0.17,11.5
+448,Dan,Burn,Burn,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+449,Lewis,Hall,Hall,38,44,14,52,10.59,1.77,2.17,0.0,0.17,8.68
+450,Tino,Livramento,Livramento,1,4,2,3,0.18,0.49,2.73,0.0,0.0,8.18
+451,Alex,Murphy,A.Murphy,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+453,Harvey,Barnes,Barnes,15,20,5,40,10.61,1.77,2.17,0.0,0.17,6.67
+454,Anthony,Elanga,Elanga,2,3,4,9,4.01,1.56,1.16,0.0,0.39,3.49
+456,Jacob,Ramsey,J.Ramsey,3,6,2,11,1.92,2.5,1.3,0.0,0.0,14.35
+457,Jacob,Murphy,J.Murphy,4,12,4,20,6.07,2.29,2.64,0.0,0.0,7.53
+458,Joelinton Cássio,Apolinário de Lira,Joelinton,1,3,1,5,0.36,1.05,5.81,0.0,0.0,14.52
+459,Lewis,Miley,L.Miley,21,29,8,58,9.06,1.8,1.98,0.0,0.2,11.5
+460,Joe,Willock,Willock,5,9,6,20,6.3,1.66,1.84,0.0,0.26,5.26
+461,Bazoumana,Touré,Touré,1,5,2,8,1.12,1.24,3.33,0.0,0.0,8.89
+462,Sean,Steur,Steur,9,8,4,21,4.23,1.71,2.02,0.0,0.4,8.48
+463,Nick,Woltemade,Woltemade,0,0,0,0,0.38,1.8,0.0,0.0,0.0,0.0
+464,Yoane,Wissa,Wissa,6,15,6,27,9.08,1.58,1.74,0.0,0.17,4.69
+465,William,Osula,Osula,2,2,1,5,1.84,2.47,4.03,0.0,0.0,6.72
+466,Sean,Neave,Neave,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+559,Aladji,Bamba,Bamba,3,2,3,8,1.29,4.3,3.33,0.0,0.0,26.67
+567,Lukás,Hornícek,Horníček,12,41,0,0,10.61,1.77,2.17,3.5,0.17,0.0
+593,Amar,Dedic,Dedić,20,20,8,28,7.74,1.95,2.26,0.0,0.25,7.04
+609,Leo,Shahar,Shahar,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+634,Matias,Fernandez-Pardo,Fernandez-Pardo,2,6,2,10,4.41,1.61,2.91,0.0,0.0,3.64
+659,Mason,Miley,Miley,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+663,Miodrag,Pivas,Pivas,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+664,Vakhtang,Salia,Salia,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+665,Michael,Mills,Mills,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+666,Kyran,Thompson,Thompson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+167,Liam,Delap,Delap,5,10,2,17,4.78,1.24,1.55,0.0,0.26,4.4
+201,Daniel,Muñoz Mejía,Muñoz,13,13,10,23,5.0,1.3,1.82,0.0,0.0,5.97
+467,Matz,Sels,Sels,7,52,0,0,7.18,1.2,1.33,2.5,0.17,0.0
+468,John Victor,Maciel Furtado,John,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+469,Neco,Williams,N.Williams,16,30,15,31,7.18,1.2,1.33,0.0,0.17,5.17
+470,Felipe,Rodrigues da Silva,Morato,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+471,Nikola,Milenković,Milenković,26,12,5,31,3.28,1.09,1.0,0.0,0.33,10.33
+472,Murillo,Costa dos Santos,Murillo,51,24,12,63,7.18,1.2,1.34,0.0,0.17,10.52
+473,Ola,Aina,Aina,19,19,12,31,6.07,1.41,1.39,0.0,0.23,7.19
+474,Jair,Paula da Cunha Filho,Jair Cunha,29,8,7,36,3.95,0.99,1.0,0.0,0.25,9.0
+475,Nicolò,Savona,Savona,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+476,Omar,Richards,O.Richards,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+477,Zach,Abbott,Abbott,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+478,Luca,Netz,Netz,0,1,1,1,0.13,0.43,3.33,0.0,0.0,3.33
+479,Tyler,Bindon,Bindon,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+480,Morgan,Gibbs-White,Gibbs-White,2,20,7,29,7.18,1.2,1.33,0.0,0.17,4.83
+482,Callum,Hudson-Odoi,Hudson-Odoi,0,0,0,0,0.26,1.23,0.0,0.0,0.0,0.0
+483,Dan,Ndoye,Ndoye,3,15,2,20,6.0,1.4,1.4,0.0,0.23,4.65
+484,Omari,Hutchinson,Hutchinson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+485,Dilane,Bakwa,Bakwa,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+486,James,McAtee,McAtee,12,33,9,54,6.96,1.24,1.25,0.0,0.36,9.6
+487,Nicolás,Domínguez,Dominguez,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+488,Ibrahim,Sangaré,I.Sangaré,5,6,1,12,0.82,0.57,0.7,0.0,0.0,8.37
+489,Ryan,Yates,Yates,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+490,Chris,Wood,Wood,0,2,0,2,0.79,0.89,1.12,0.0,0.0,2.25
+491,Igor Jesus,Maciel da Cruz,Igor Jesus,5,8,2,15,2.61,0.91,1.05,0.0,0.0,5.25
+493,Arnaud,Kalimuendo,Kalimuendo,0,1,1,2,0.06,0.68,0.0,0.0,0.0,22.5
+558,Xaver,Schlager,Schlager,13,27,17,57,6.59,1.34,1.63,0.0,0.2,11.63
+581,Ousmane,Diomande,Diomande,23,19,2,25,3.86,1.37,1.78,0.0,0.0,8.89
+590,Steven,Benda,Benda,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+112,Jan Paul,van Hecke,Van Hecke,43,23,11,54,8.58,1.43,1.5,0.0,0.33,9.0
+147,Tosin,Adarabioyo,Tosin,2,1,2,4,0.03,0.54,0.0,0.0,0.0,72.0
+401,Omar,Marmoush,Marmoush,0,13,4,17,4.41,1.09,1.49,0.0,0.5,4.21
+403,Sávio,Moreira de Oliveira,Sávio,3,13,0,16,3.56,0.97,1.09,0.0,0.55,4.36
+455,Sandro,Tonali,Tonali,13,26,12,51,8.52,1.48,1.57,0.0,0.35,8.88
+494,Guglielmo,Vicario,Vicario,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+495,Brandon,Austin,Austin,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+496,Antonín,Kinský,Kinsky,10,43,0,0,8.58,1.43,1.5,2.5,0.33,0.0
+497,Martin,Dubravka,Dubravka,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+498,Marcos,Senesi Barón,Senesi,13,10,6,19,4.44,2.24,2.02,0.0,0.0,9.61
+499,Pedro,Porro Sauceda,Pedro Porro,6,5,3,9,1.68,0.76,0.91,0.0,0.45,4.09
+500,Cristian,Romero,Romero,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+502,Andrew,Robertson,Robertson,15,15,5,20,7.05,1.73,1.72,0.0,0.25,4.92
+503,Micky,van de Ven,Van de Ven,24,18,5,29,4.36,1.04,1.2,0.0,0.48,6.94
+505,Djed,Spence,Spence,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+506,Destiny,Udogie,Udogie,8,7,2,10,1.52,0.86,1.13,0.0,0.57,5.66
+507,Ashley,Phillips,Phillips,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+508,Ben,Davies,Davies,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+509,Jun'ai,Byfield,Byfield,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+510,James,Rowswell,Rowswell,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+511,João Victor,de Souza Menezes,Souza,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+512,Mohammed,Kudus,Kudus,0,15,4,19,1.69,0.81,1.44,0.0,0.48,9.1
+513,Xavi,Simons,Xavi,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+514,Mathys,Tel,Tel,1,11,1,13,5.55,1.94,1.4,0.0,0.35,4.55
+515,James,Maddison,Maddison,3,5,7,15,1.48,1.78,2.4,0.0,0.0,18.0
+516,Rodrigo,Bentancur,Bentancur,23,24,15,62,5.71,1.35,1.65,0.0,0.47,14.65
+517,Wilson,Odobert,Odobert,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+518,Pape Matar,Sarr,P.M.Sarr,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+519,Conor,Gallagher,Gallagher,4,17,10,31,3.0,1.3,1.3,0.0,0.43,13.48
+520,Lucas,Bergvall,Bergvall,4,10,5,19,2.44,1.54,1.26,0.0,0.63,11.96
+521,Dejan,Kulusevski,Kulusevski,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+522,Archie,Gray,Gray,14,19,8,41,6.91,1.57,1.81,0.0,0.23,9.29
+523,Mikey,Moore,Moore,0,2,1,3,3.26,3.3,4.04,0.0,0.0,3.03
+524,Callum,Olusesi,Olusesi,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+525,Mateus,Fernandes,Fernandes,3,12,7,22,4.67,1.68,1.44,0.0,0.36,7.92
+526,Dominic,Solanke-Mitchell,Solanke,4,7,2,13,3.37,1.17,0.69,0.0,0.35,4.5
+527,Richarlison,de Andrade,Richarlison,1,0,0,1,3.02,4.06,4.03,0.0,0.0,1.34
+528,Dane,Scarlett,Scarlett,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+578,Mykhailo,Mudryk,Mudryk,0,0,0,0,0.16,0.9,0.0,0.0,0.0,0.0
+601,Luca,Williams-Barnett,Williams-Barnett,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+501,Kevin,Danso,Danso,23,15,2,25,7.32,1.83,2.5,0.0,0.0,6.25
+529,Robin,Roefs,Roefs,8,44,0,0,10.07,1.68,2.0,1.33,0.17,0.0
+530,Anthony,Patterson,Patterson,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+531,Melker,Ellborg,Ellborg,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+532,Daniel,Ballard,Ballard,39,12,10,49,8.66,1.73,2.0,0.0,0.2,9.8
+533,Nordi,Mukiele,Mukiele,42,26,16,58,8.27,1.65,2.0,0.0,0.2,11.6
+534,Trai,Hume,Hume,8,15,13,21,5.98,1.82,1.22,0.0,0.3,6.39
+535,Omar,Alderete,Alderete,0,2,0,0,0.1,0.39,3.91,0.0,0.0,0.0
+536,Reinildo,Mandava,Reinildo,26,21,10,36,6.0,1.25,1.25,0.0,0.21,7.5
+537,Jenson,Seelt,Seelt,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+538,Leo Fuhr,Hjelde,Hjelde,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+539,Luke,O'Nien,O'Nien,4,4,1,5,1.69,2.3,1.36,0.0,0.0,6.82
+540,Arthur,Masuaku,Masuaku,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+541,Thomas,Meunier,Meunier,16,16,4,20,6.4,1.34,1.68,0.0,0.21,4.2
+542,Enzo,Le Fée,E.Le Fée,3,15,7,25,9.73,1.69,1.74,0.0,0.17,4.34
+543,Habib,Diarra,Diarra,0,0,0,0,0.12,0.39,3.21,0.0,0.0,0.0
+544,Granit,Xhaka,Xhaka,14,37,11,62,10.07,1.68,2.0,0.0,0.17,10.33
+545,Noah,Sadiki,Sadiki,12,17,8,37,7.88,1.42,1.98,0.0,0.18,6.66
+546,Simon,Adingra,Adingra,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+547,Romaine,Mundle,Mundle,1,0,0,1,0.09,8.1,0.0,0.0,0.0,90.0
+548,Chris,Rigg,Rigg,0,1,0,1,0.44,2.33,5.29,0.0,0.0,5.29
+549,Chemsdine,Talbi,Talbi,0,2,0,2,0.14,0.41,2.9,0.0,0.0,5.81
+550,Djiamgone Jocelin Ta,Bi,Jocelin.T,0,0,0,0,0.47,2.49,5.29,0.0,0.0,0.0
+551,Nilson,Angulo,N.Angulo,6,14,7,27,5.51,1.29,1.87,0.0,0.23,6.31
+552,Brian,Brobbey,Brobbey,1,10,0,11,8.18,1.85,2.03,0.0,0.23,2.48
+553,Wilson,Isidor,Isidor,0,6,2,8,5.19,2.26,2.17,0.0,0.0,3.48
+612,Dayann,Méthalie,Methalie,4,6,1,5,3.29,2.77,5.05,0.0,0.0,4.21
+613,Jules,Ahoka,Ahoka,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+646,Malick,Fofana,Fofana,2,5,2,9,4.2,3.26,3.1,0.0,0.0,6.98
+651,Juan,Angulo,J.Angulo,0,0,0,0,0.15,1.5,10.0,0.0,0.0,0.0

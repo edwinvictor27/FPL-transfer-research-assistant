@@ -1,0 +1,668 @@
+player_id,team_id,player_first_name,player_last_name,player_display_name,position,selected_by_percentage
+1,1,David,Raya Martín,Raya,goalkeeper,43.7
+2,1,Kepa,Arrizabalaga Revuelta,Arrizabalaga,goalkeeper,0.1
+3,1,Illan,Meslier,Meslier,goalkeeper,0.0
+4,1,Gabriel,dos Santos Magalhães,Gabriel,defender,21.8
+5,1,Jurriën,Timber,J.Timber,defender,0.6
+6,1,William,Saliba,Saliba,defender,0.2
+7,1,Myles,Lewis-Skelly,Lewis-Skelly,midfielder,0.5
+8,1,Riccardo,Calafiori,Calafiori,defender,52.3
+9,1,Piero,Hincapié,Hincapie,defender,0.8
+10,1,Benjamin,White,White,defender,4.4
+11,1,Cristhian,Mosquera,Mosquera,defender,1.5
+12,1,Bukayo,Saka,Saka,midfielder,16.7
+13,1,Declan,Rice,Rice,midfielder,10.8
+14,1,Eberechi,Eze,Eze,midfielder,1.1
+15,1,Martin,Ødegaard,Ødegaard,midfielder,19.8
+16,1,Noni,Madueke,Madueke,midfielder,0.2
+17,1,Mikel,Merino Zazón,Merino,midfielder,0.4
+18,1,Gabriel,Martinelli Silva,Martinelli,midfielder,0.1
+19,1,Martín,Zubimendi Ibáñez,Zubimendi,midfielder,0.5
+20,1,Max,Dowman,Dowman,midfielder,0.1
+22,1,Ethan,Nwaneri,Nwaneri,midfielder,0.0
+23,1,Fábio,Ferreira Vieira,Fábio Vieira,midfielder,0.0
+24,1,Reiss,Nelson,Nelson,midfielder,0.0
+25,1,Viktor,Gyökeres,Gyökeres,forward,3.7
+26,1,Kai,Havertz,Havertz,forward,6.6
+27,1,Gabriel,Fernando de Jesus,G.Jesus,forward,0.1
+31,1,Ezri,Konsa Ngoyo,Konsa,defender,17.3
+452,1,Bruno,Guimarães Rodriguez Moura,Bruno G.,midfielder,2.1
+557,1,Christos,Tzolis,Tzolis,midfielder,6.5
+29,2,Marco,Bizot,M.Bizot,goalkeeper,0.1
+30,2,Lucas,Digne,Digne,defender,0.0
+32,2,Matty,Cash,Cash,defender,4.4
+33,2,Tyrone,Mings,Mings,defender,0.4
+34,2,Pau,Torres,Pau,defender,0.3
+35,2,Lamare,Bogarde,Bogarde,midfielder,0.1
+36,2,Ian,Maatsen,Maatsen,defender,0.4
+37,2,Victor,Lindelöf,Lindelöf,defender,0.3
+38,2,Andrés,García,A.García,defender,1.5
+39,2,Kosta,Nedeljkovic,Nedeljkovic,defender,0.1
+41,2,Emiliano,Buendía Stati,Buendía,midfielder,1.2
+44,2,Leon,Bailey,Bailey,midfielder,0.0
+45,2,John,McGinn,McGinn,midfielder,2.5
+46,2,Ross,Barkley,Barkley,midfielder,0.2
+47,2,Boubacar,Kamara,Kamara,midfielder,0.3
+48,2,Amadou,Onana,Onana,midfielder,0.0
+49,2,Samuel,Iling-Junior,Iling Jr,midfielder,0.0
+50,2,Bradley,Burrowes,Burrowes,midfielder,0.5
+51,2,George,Hemmings,George Hemmings,midfielder,1.0
+52,2,Alysson Edward Franco,da Rocha dos Santos,Alysson,midfielder,0.0
+53,2,Johan,Manzambi,Manzambi,midfielder,1.0
+54,2,Joao,Gomes,Gomes,midfielder,0.0
+55,2,Ollie,Watkins,Watkins,forward,2.4
+56,2,Tammy,Abraham,Abraham,forward,0.2
+160,2,Alejandro,Garnacho Ferreyra,Garnacho,midfielder,0.3
+166,2,Nicolas,Jackson,N.Jackson,forward,2.6
+582,2,Brian,Madjo,Madjo,forward,0.2
+596,2,Matteo,Ruggeri,Ruggeri,defender,0.1
+597,2,Zion,Suzuki,Suzuki,goalkeeper,1.9
+606,2,Triston,Rowe,Rowe,defender,0.2
+607,2,Luka,Lynch,Lynch,midfielder,0.1
+611,2,Aaron,Wan-Bissaka,Wan-Bissaka,defender,0.2
+618,2,Leon,Goretzka,Goretzka,midfielder,0.0
+630,2,Taylor,Harwood-Bellis,Harwood-Bellis,defender,0.0
+631,2,Ibrahim,Mbaye,Mbaye,midfielder,0.1
+667,2,James,Wright,Wright,goalkeeper,0.2
+57,3,Đorđe,Petrović,Petrović,goalkeeper,2.9
+58,3,Fraser,Forster,Forster,goalkeeper,3.5
+59,3,Will,Dennis,Dennis,goalkeeper,0.1
+60,3,James,Hill,Hill,defender,0.8
+61,3,Adrien,Truffert,Truffert,defender,2.8
+62,3,Bafodé,Diakité,Diakité,defender,0.2
+63,3,Veljko,Milosavljevic,Milosavljević,defender,0.0
+64,3,Adam,Smith,Smith,defender,0.1
+65,3,Julián,Araujo Zúñiga,J.Araujo,defender,0.0
+66,3,Julio,Soler Barreto,Soler,defender,0.3
+67,3,Rayan Vitor,Simplício Rocha,Rayan,midfielder,1.5
+68,3,Marcus,Tavernier,Tavernier,midfielder,7.3
+69,3,Alex,Scott,Scott,midfielder,3.6
+70,3,Justin,Kluivert,Kluivert,midfielder,0.6
+71,3,Lewis,Cook,Cook,midfielder,0.2
+72,3,Ben,Gannon-Doak,Gannon-Doak,midfielder,0.1
+73,3,Tyler,Adams,Adams,midfielder,0.3
+74,3,David,Brooks,Brooks,midfielder,0.1
+75,3,Ryan,Christie,Christie,midfielder,0.0
+76,3,Alex,Tóth,Tóth.A,midfielder,0.0
+77,3,Amine,Adli,Adli,midfielder,0.0
+78,3,Junior,Kroupi,Kroupi.Jr,midfielder,0.2
+79,3,Francisco Evanilson,de Lima Barbosa,Evanilson,forward,3.6
+80,3,Enes,Ünal,Enes Ünal,forward,0.0
+81,3,Álvaro,Rodríguez,Rodríguez,forward,0.1
+566,3,António João,Pereira de Albuquerque Tavares da Silva,Silva,defender,0.6
+573,3,Juanlu,Sánchez,Sanchez,defender,0.2
+608,3,Daniel,Jebbison,Jebbison,forward,0.1
+615,3,Michele,Di Gregorio,Di Gregorio,goalkeeper,0.0
+82,4,Caoimhín,Kelleher,Kelleher,goalkeeper,6.1
+83,4,Hákon Rafn,Valdimarsson,Valdimarsson,goalkeeper,0.1
+84,4,Nathan,Collins,Collins,defender,0.8
+85,4,Sepp,van den Berg,Van den Berg,defender,0.1
+86,4,Keane,Lewis-Potter,Lewis-Potter,midfielder,1.6
+87,4,Kristoffer,Ajer,Ajer,defender,3.8
+88,4,Michael,Kayode,Kayode,defender,7.3
+89,4,Rico,Henry,Henry,defender,0.2
+90,4,Aaron,Hickey,Hickey,defender,0.1
+92,4,Kim,Ji-soo,Ji-soo,defender,0.0
+93,4,Jannik,Schuster,Schuster,defender,0.6
+94,4,Kevin,Schade,Schade,midfielder,15.1
+95,4,Dango,Ouattara,O.Dango,midfielder,0.4
+96,4,Mikkel,Damsgaard,Damsgaard,midfielder,0.3
+97,4,Mathias,Jensen,Jensen,midfielder,0.1
+98,4,Vitaly,Janelt,Janelt,midfielder,2.5
+99,4,Antoni,Milambo,Milambo,midfielder,0.0
+100,4,Fábio,Freitas Gouveia Carvalho,Carvalho,midfielder,0.0
+102,4,Yehor,Yarmoliuk,Yarmoliuk,midfielder,0.7
+103,4,Josh,Dasilva,Dasilva,midfielder,0.0
+105,4,Jaidon,Anthony,Anthony,midfielder,0.2
+106,4,Igor Thiago,Nascimento Rodrigues,Thiago,forward,9.2
+107,4,Kaye,Furo,Furo,forward,0.8
+108,4,Callum,Wilson,Wilson,forward,0.3
+565,4,Mamadou,Sangaré,M.Sangaré,midfielder,8.3
+620,4,El Hadji Malick,Diouf,Diouf,defender,0.1
+657,4,Gustavo,Nunes Fernandes Gomes,Nunes,midfielder,0.0
+660,4,Benjamin,Fredrick,Fredrick,defender,0.0
+661,4,Ellery,Balcombe,Balcombe,goalkeeper,0.1
+109,5,Bart,Verbruggen,Verbruggen,goalkeeper,21.9
+111,5,Jason,Steele,Steele,goalkeeper,3.9
+113,5,Ferdi,Kadıoğlu,F.Kadıoğlu,defender,1.6
+114,5,Olivier,Boscagli,Boscagli,defender,0.3
+115,5,Maxim,De Cuyper,De Cuyper,defender,35.4
+116,5,Lewis,Dunk,Dunk,defender,1.5
+117,5,Diego,Coppola,Coppola,defender,0.0
+118,5,Igor Julio,dos Santos de Paulo,Igor,defender,0.0
+119,5,João Pedro,Loureiro da Costa,Costinha,defender,0.0
+120,5,Michael,Svoboda,Svoboda,defender,0.1
+121,5,Mitoma,Kaoru,Mitoma,midfielder,0.0
+122,5,Yankuba,Minteh,Minteh,midfielder,0.0
+123,5,Jack,Hinshelwood,Hinshelwood,midfielder,0.5
+124,5,Pascal,Groß,Groß,midfielder,39.5
+125,5,Georginio,Rutter,Georginio,forward,0.5
+126,5,Matt,O'Riley,O'Riley,midfielder,0.1
+127,5,Diego,Gómez Amarilla,Gomez,midfielder,3.6
+128,5,Facundo,Buonanotte,Buonanotte,midfielder,0.0
+129,5,Yasin,Ayari,Ayari,midfielder,0.4
+130,5,Mats,Wieffer,Wieffer,defender,0.2
+132,5,Harry,Howell,Howell,midfielder,0.0
+133,5,Tom,Watson,Watson,midfielder,0.0
+134,5,Nehemiah,Oriola,Oriola,midfielder,0.2
+135,5,Zadok,Yohanna,Yohanna,midfielder,0.0
+137,5,Stefanos,Tzimas,Tzimas,forward,0.0
+138,5,Charalampos,Kostoulas,Kostoulas,forward,8.7
+139,5,Evan,Ferguson,Ferguson,forward,0.0
+328,5,Pascal,Struijk,Struijk,defender,0.2
+504,5,Luka,Vušković,Vuskovic,defender,4.6
+594,5,Promise,David,David,forward,0.2
+600,5,Ibrahim,Osman,Osman,midfielder,0.0
+605,5,Malick,Yalcouyé,Yalcouyé,midfielder,3.8
+614,5,Jaouen,Hadjam,Hadjam,defender,0.0
+624,5,Amario,Cozier-Duberry,Cozier-Duberry,midfielder,0.0
+639,5,José María,Andrés Baixauli,Andrés,midfielder,0.1
+652,5,Femi,Azeez,Azeez,midfielder,0.0
+658,5,Younes,Ibrahim,Ibrahim,midfielder,0.0
+28,6,Emiliano,Martínez Romero,Martinez,goalkeeper,4.7
+40,6,Morgan,Rogers,Rogers,midfielder,45.0
+101,6,Jordan,Henderson,Henderson,midfielder,0.4
+136,6,Danny,Welbeck,Welbeck,forward,0.9
+140,6,Robert,Lynch Sánchez,Sánchez,goalkeeper,0.6
+141,6,Filip,Jörgensen,Jörgensen,goalkeeper,0.0
+142,6,Reece,James,James,defender,5.1
+143,6,Trevoh,Chalobah,Chalobah,defender,0.1
+144,6,Malo,Gusto,Gusto,defender,0.9
+145,6,Wesley,Fofana,Fofana,defender,0.2
+146,6,Benoît,Badiashile Mukinayi,B.Badiashile,defender,0.0
+148,6,Jorrel,Hato,Hato,defender,0.7
+149,6,Levi,Samuels Colwill,Colwill,defender,0.8
+150,6,Mamadou,Sarr,M.Sarr,defender,0.0
+151,6,Josh,Acheampong,Acheampong,defender,0.3
+152,6,Marco,Palestra,Palestra,defender,0.6
+154,6,Cole,Palmer,Palmer,midfielder,25.3
+156,6,Pedro,Lomba Neto,Neto,midfielder,1.4
+157,6,Estêvão,Almeida de Oliveira Gonçalves,Estêvão,midfielder,0.7
+158,6,Jamie,Bynoe-Gittens,Gittens,midfielder,0.0
+159,6,Moisés,Caicedo Corozo,Caicedo,midfielder,1.0
+161,6,Roméo,Lavia,Lavia,midfielder,0.2
+163,6,Dário,Luís Essugo,D.Essugo,midfielder,0.1
+164,6,Geovany,Quenda,Quenda,midfielder,0.0
+165,6,João Pedro,Junqueira de Jesus,João Pedro,forward,69.7
+168,6,Marc,Guiu Paz,Marc Guiu,forward,0.2
+169,6,Shumaira,Mheuka,Mheuka,forward,0.5
+170,6,Emmanuel,Emegha,Emegha,forward,0.1
+200,6,Maxence,Lacroix,Lacroix,defender,6.5
+560,6,Mike,Penders,Penders,goalkeeper,0.1
+561,6,Aaron,Anselmino,Anselmino,defender,0.0
+568,6,Valentín,Barco,Barco,midfielder,0.1
+583,6,Pep,Chavarría,Chavarria,defender,0.2
+662,6,Mahdi,Nicoll-Jazuli,Nicoll-Jazuli,midfielder,0.0
+91,7,Ethan,Pinnock,Pinnock,defender,0.1
+104,7,Frank,Onyeka,Onyeka,midfielder,0.1
+110,7,Carl,Rushworth,Rushworth,goalkeeper,0.8
+171,7,Oliver,Dovin,Dovin,goalkeeper,0.9
+172,7,Ben,Wilson,Wilson,goalkeeper,0.3
+173,7,Bobby,Thomas,Thomas,defender,8.8
+174,7,Liam,Kitching,Kitching,defender,0.3
+175,7,Milan,van Ewijk,van Ewijk,defender,7.4
+176,7,Jay,Dasilva,Dasilva,defender,1.0
+177,7,Kaine,Kesler-Hayden,Kesler-Hayden,defender,0.0
+178,7,Jake,Bidwell,Bidwell,defender,0.1
+179,7,Joel,Latibeaudiere,Latibeaudiere,defender,0.0
+180,7,Luke,Woolfenden,Woolfenden,defender,0.1
+181,7,Miguel,Brau,Brau,defender,0.0
+182,7,Aurèle,Amenda,Amenda,defender,0.5
+183,7,Jack,Rudoni,Rudoni,midfielder,0.1
+184,7,Matt,Grimes,Grimes,midfielder,0.1
+185,7,Tatsuhiro,Sakamoto,Sakamoto,midfielder,0.1
+186,7,Ephron,Mason-Clark,Mason-Clark,midfielder,0.1
+187,7,Josh,Eccles,Eccles,midfielder,0.0
+188,7,Victor,Torp,Torp,midfielder,0.1
+189,7,George,Shepherd,Shepherd,midfielder,0.2
+190,7,Loum,Tchaouna,Tchaouna,midfielder,0.1
+191,7,Raphael,Borges Rodrigues,Borges Rodrigues,midfielder,0.1
+192,7,Kai,Andrews,Andrews,midfielder,0.2
+193,7,Haji,Wright,Wright,forward,0.1
+194,7,Brandon,Thomas-Asante,Thomas-Asante,forward,0.9
+195,7,Ellis,Simms,Simms,forward,0.6
+196,7,Jahnoah,Markelo,Markelo,forward,0.0
+197,7,Norman,Bassette,Bassette,forward,0.0
+492,7,Taiwo,Awoniyi,Awoniyi,forward,0.3
+575,7,Caleb,Yirenkyi,Yirenkyi,midfielder,0.1
+584,7,Gustavo,Hamer,Hamer,midfielder,0.1
+599,7,Sidiki,Cherif,Cherif,forward,0.2
+623,7,Dan,Bentley,Bentley,goalkeeper,0.9
+655,7,Yann,Gboho,Gboho,midfielder,0.0
+656,7,Stephen,Mfuni,Mfuni,defender,0.1
+42,8,Evann,Guessand,Guessand,midfielder,0.0
+153,8,Axel,Disasi,Disasi,defender,0.1
+198,8,Dean,Henderson,Henderson,goalkeeper,1.2
+199,8,Walter,Benítez,Benitez,goalkeeper,0.1
+202,8,Chris,Richards,Richards,defender,0.6
+203,8,Jaydee,Canvot,Canvot,defender,0.2
+204,8,Tyrick,Mitchell,Mitchell,defender,5.9
+205,8,Borna,Sosa,Sosa,defender,0.0
+206,8,Chadi,Riad Dnanou,Chadi Riad,defender,0.0
+207,8,Oscar,Mingueza,Mingueza,defender,0.1
+208,8,Ismaïla,Sarr,Sarr,midfielder,0.6
+210,8,Adam,Wharton,Wharton,midfielder,0.7
+211,8,Yéremy,Pino Santos,Yeremy,midfielder,0.3
+212,8,Will,Hughes,Hughes,midfielder,6.6
+213,8,Jefferson,Lerma Solís,Lerma,midfielder,0.1
+214,8,Daichi,Kamada,Kamada,midfielder,0.6
+215,8,Justin,Devenny,Devenny,midfielder,0.0
+216,8,Romain,Esse,Esse,midfielder,0.0
+217,8,Matheus,França de Oliveira,M.França,midfielder,0.0
+218,8,Cheick,Doucouré,Doucouré,midfielder,0.0
+219,8,Jesurun,Rak-Sakyi,J.Rak-Sakyi,midfielder,0.0
+220,8,Rio,Cardines,Cardines,defender,0.0
+221,8,Joél,Drakes-Thomas,Drakes-Thomas,midfielder,0.1
+222,8,Jørgen,Strand Larsen,Strand Larsen,forward,0.7
+223,8,Jean-Philippe,Mateta,Mateta,forward,1.2
+224,8,Eddie,Nketiah,Nketiah,forward,0.5
+225,8,Christantus,Uche,Uche,forward,0.0
+241,8,Dwight,McNeil,McNeil,midfielder,0.1
+555,8,Remi,Matthews,Matthews,goalkeeper,1.6
+577,8,Takehiro,Tomiyasu,Tomiyasu,defender,0.2
+588,8,Anan,Khalaili,Khalaili,defender,0.3
+595,8,Zavier,Gozo,Gozo,midfielder,0.0
+633,8,Honest,Ahanor,Ahanor,defender,0.0
+643,8,Ben,Chilwell,Chilwell,defender,0.4
+644,8,Quinten,Timber,Timber,midfielder,0.0
+647,8,Darío,Osorio,Osorio,midfielder,0.0
+21,9,Christian,Nørgaard,Nørgaard,midfielder,0.0
+209,9,Brennan,Johnson,Johnson,midfielder,0.1
+226,9,Jordan,Pickford,Pickford,goalkeeper,9.0
+227,9,Mark,Travers,Travers,goalkeeper,0.0
+228,9,Tom,King,King,goalkeeper,0.0
+229,9,James,Tarkowski,Tarkowski,defender,18.4
+230,9,Jarrad,Branthwaite,Branthwaite,defender,2.6
+231,9,Michael,Keane,Keane,defender,0.7
+232,9,Jake,O'Brien,O'Brien,defender,0.3
+233,9,Vitalii,Mykolenko,Mykolenko,defender,3.2
+234,9,Nathan,Patterson,Patterson,defender,0.0
+235,9,Adam,Aznou,Aznou,defender,0.1
+236,9,Kiernan,Dewsbury-Hall,Dewsbury-Hall,midfielder,5.8
+238,9,Jack,Grealish,Grealish,midfielder,0.5
+239,9,James,Garner,Garner,midfielder,0.2
+242,9,Tyrique,George,George,midfielder,0.7
+243,9,Carlos,Alcaraz Durán,Alcaraz,midfielder,0.1
+244,9,Harrison,Armstrong,Armstrong,midfielder,0.4
+245,9,Tyler,Dibling,Dibling,midfielder,0.0
+246,9,Merlin,Röhl,Röhl,midfielder,0.0
+247,9,Hayden,Hackney,Hackney,midfielder,0.2
+248,9,Norberto Bercique,Gomes Betuncal,Beto,forward,0.5
+249,9,Thierno,Barry,Barry,forward,8.7
+649,9,Ainsley,Maitland-Niles,Maitland-Niles,defender,1.5
+654,9,Braiden,Graham,Graham,midfielder,0.1
+250,10,Bernd,Leno,Leno,goalkeeper,4.1
+251,10,Benjamin,Lecomte,Lecomte,goalkeeper,1.1
+252,10,Alfie,McNally,McNally,goalkeeper,0.1
+253,10,Joachim,Andersen,Andersen,defender,0.2
+254,10,Antonee,Robinson,Robinson,defender,1.3
+255,10,Jorge,Cuenca Barreno,J.Cuenca,defender,0.0
+256,10,Kenny,Tete,Tete,defender,0.2
+257,10,Calvin,Bassey,Bassey,defender,1.0
+258,10,Timothy,Castagne,Castagne,defender,1.2
+261,10,Alex,Iwobi,Iwobi,midfielder,0.7
+262,10,Emile,Smith Rowe,Smith Rowe,midfielder,0.2
+263,10,Kevin,Santos Lopes de Macedo,Kevin,midfielder,0.0
+264,10,Oscar,Bobb,Bobb,midfielder,0.3
+265,10,Sander,Berge,Berge,midfielder,0.3
+266,10,Tom,Cairney,Cairney,midfielder,0.0
+268,10,Josh,King,King,midfielder,4.7
+269,10,Ryan,Sessegnon,Sessegnon,defender,0.3
+270,10,Harrison,Reed,Reed,midfielder,1.0
+271,10,Rodrigo,Muniz Carvalho,Muniz,forward,0.4
+272,10,Jonah,Kusi-Asare,Kusi-Asare,forward,5.0
+569,10,Gonzalo,García,Gonzalo,forward,7.2
+570,10,César,Palacios,Palacios,midfielder,0.2
+580,10,Shea,Charles,Charles,midfielder,0.1
+610,10,Luc,De Fougerolles,De Fougerolles,defender,0.1
+626,10,Macaulay,Zepa,Zepa,midfielder,0.4
+635,10,Hugo,Larsson,Larsson,midfielder,0.0
+636,10,Manuel Ángel,Morán Ibáñez,Ángel,midfielder,0.0
+650,10,David,Affengruber,Affengruber,defender,0.6
+240,11,Tim,Iroegbunam,Iroegbunam,midfielder,0.0
+273,11,Dillon,Phillips,Phillips,goalkeeper,1.4
+274,11,Jack,Butland,Butland,goalkeeper,0.1
+275,11,Harvey,Cartwright,Cartwright,goalkeeper,0.0
+276,11,Thimothée,Lo-Tutala,Lo-Tutala,goalkeeper,0.0
+277,11,John,Egan,Egan,defender,7.3
+278,11,Charlie,Hughes,Hughes,defender,0.2
+279,11,Semi,Ajayi,Ajayi,defender,13.8
+280,11,Lewie,Coyle,Coyle,defender,0.7
+281,11,Cody,Drameh,Drameh,defender,0.0
+282,11,Ryan,Giles,Giles,defender,2.9
+283,11,Matty,Jacob,Jacob,defender,0.0
+284,11,Cathal,McCarthy,McCarthy,defender,0.1
+285,11,Paddy,McNair,McNair,defender,0.1
+286,11,Mohamed,Belloumi,Belloumi,midfielder,7.3
+287,11,Liam,Millar,Millar,midfielder,0.0
+288,11,Kieran,Dowell,Dowell,midfielder,0.3
+289,11,Matt,Crooks,Crooks,midfielder,0.5
+290,11,Regan,Slater,Slater,midfielder,5.0
+291,11,Eliot,Matazo,Matazo,midfielder,0.0
+292,11,Abdülkadir,Ömür,Ömür,midfielder,0.0
+293,11,Abu,Kamara,Kamara,midfielder,0.0
+294,11,Óscar,Zambrano,Zambrano,midfielder,0.1
+295,11,Oli,McBurnie,McBurnie,forward,1.8
+296,11,David,Akintola,Akintola,midfielder,0.0
+297,11,Darko,Gyabi,Gyabi,midfielder,0.0
+298,11,Enis,Destan,Destan,forward,0.2
+299,11,Mason,Burstow,Burstow,forward,0.0
+340,11,Joe,Gelhardt,Gelhardt,midfielder,0.0
+556,11,Matt,Targett,Targett,defender,1.4
+563,11,Hidemasa,Morita,Morita,midfielder,0.0
+572,11,Konstantinos,Tzolakis,Tzolakis,goalkeeper,13.5
+574,11,Jens,Hjertø-Dahl,Hjertø-Dahl,midfielder,0.1
+576,11,Elliot,Stroud,Stroud,midfielder,0.1
+585,11,Lucas,Herrington,Herrington,defender,0.6
+586,11,Nobel,Mendy,Mendy,defender,6.2
+589,11,Lucas,Gourna-Douath,Gourna-Douath,midfielder,0.0
+617,11,Mohamed-Ali,Cho,Cho,midfielder,0.0
+632,11,Ilyas,Ansah,Ansah,forward,0.0
+637,11,Robinio,Vaz,Vaz,forward,0.1
+638,11,Brooke,Norton-Cuffy,Norton-Cuffy,defender,0.2
+642,11,Sorba,Thomas,Thomas,midfielder,0.0
+645,11,Christos,Mouzakitis,Mouzakitis,midfielder,0.0
+259,12,Issa,Diop,Diop,defender,11.6
+267,12,Saša,Lukić,Lukić,midfielder,0.1
+300,12,Christian,Walton,Walton,goalkeeper,0.4
+301,12,Alex,Palmer,Palmer,goalkeeper,3.8
+302,12,David,Button,Button,goalkeeper,0.6
+303,12,Cédric,Kipré,Kipré,defender,0.9
+304,12,Dara,O'Shea,O'Shea,defender,2.6
+305,12,Leif,Davis,Davis,defender,7.7
+306,12,Jacob,Greaves,Greaves,defender,1.2
+307,12,Ben,Johnson,Johnson,defender,0.1
+308,12,Darnell,Furlong,Furlong,defender,0.6
+309,12,Marcelino,Núñez,Núñez,midfielder,0.1
+310,12,Azor,Matusiwa,Matusiwa,midfielder,0.0
+311,12,Wes,Burns,Burns,midfielder,0.0
+312,12,Jack,Taylor,Taylor,midfielder,0.0
+313,12,Jack,Clarke,Clarke,midfielder,0.2
+314,12,Chiedozie,Ogbene,Ogbene,midfielder,0.0
+315,12,Abdul,Fatawu,Fatawu,midfielder,0.1
+316,12,Emersonn,Correia da Silva,Emersonn,forward,3.9
+317,12,George,Hirst,Hirst,forward,0.1
+318,12,Jaden,Philogene,Philogene,midfielder,0.1
+319,12,Sam,Szmodics,Szmodics,midfielder,0.0
+320,12,Chuba,Akpom,Akpom,forward,1.1
+321,12,Sindre,Walle Egeli,Walle Egeli,forward,3.5
+322,12,Ali,Al-Hamadi,Al-Hamadi,forward,0.0
+323,12,Kasey,McAteer,McAteer,midfielder,1.0
+324,12,Anis,Mehmeti,Mehmeti,midfielder,0.0
+554,12,Kayne,van Oevelen,Van Oevelen,goalkeeper,0.0
+562,12,Daizen,Maeda,Maeda,midfielder,0.2
+564,12,Kjell,Scherpen,Scherpen,goalkeeper,0.5
+571,12,Florentino Ibrain,Morris Luís,Florentino,midfielder,0.1
+591,12,Julio,Enciso,Enciso,midfielder,0.8
+592,12,Abdoul,Ouattara,Ouattara,defender,0.9
+602,12,Cameron,Humphreys,Humphreys,midfielder,0.0
+619,12,Exequiel,Palacios,Palacios,midfielder,0.1
+640,12,Zian,Flemming,Flemming,forward,0.1
+260,13,Harry,Wilson,Wilson,midfielder,1.4
+326,13,Lucas Estella,Perri,Perri,goalkeeper,0.3
+327,13,Jaka,Bijol,Bijol,defender,0.6
+329,13,Joe,Rodon,Rodon,defender,0.6
+330,13,Jayden,Bogle,Bogle,defender,9.0
+331,13,Gabriel,Gudmundsson,Gudmundsson,defender,0.1
+332,13,James,Justin,Justin,defender,1.6
+333,13,Sebastiaan,Bornauw,Bornauw,defender,0.0
+334,13,Tarik,Muharemović,Muharemović,defender,4.6
+335,13,Anton,Stach,Stach,midfielder,2.3
+336,13,Noah,Okafor,Okafor,midfielder,0.4
+337,13,Brenden,Aaronson,Aaronson,midfielder,0.4
+338,13,Ethan,Ampadu,Ampadu,midfielder,0.9
+339,13,Sean,Longstaff,Longstaff,midfielder,0.1
+341,13,Wilfried,Gnonto,Gnonto,midfielder,0.0
+342,13,Jack,Harrison,Harrison,midfielder,0.0
+343,13,Daniel,James,James,midfielder,0.1
+344,13,Ilia,Gruev,Gruev,midfielder,0.0
+345,13,Tanaka,Ao,Tanaka,midfielder,0.3
+346,13,Dominic,Calvert-Lewin,Calvert-Lewin,forward,22.6
+347,13,Lukas,Nmecha,Nmecha,forward,0.4
+348,13,Joël,Piroe,Piroe,forward,0.1
+349,13,Mateo,Joseph Fernández-Regatillo,Mateo Joseph,forward,0.1
+385,13,James,Trafford,Trafford,goalkeeper,5.6
+598,13,Nico,Elvedi,Elvedi,defender,0.1
+603,13,Jayden,Lienou,Lienou,defender,0.1
+604,13,Alfie,Cresswell,Cresswell,midfielder,0.1
+625,13,Alex,Cairns,Cairns,goalkeeper,0.2
+629,13,Michael,Zetterer,Zetterer,goalkeeper,0.7
+641,13,Melvin,Bard,Bard,defender,0.0
+648,13,Jean-Mattéo,Bahoya,Bahoya,midfielder,0.0
+350,14,Alisson,Becker,A.Becker,goalkeeper,4.3
+351,14,Giorgi,Mamardashvili,Mamardashvili,goalkeeper,0.1
+352,14,Freddie,Woodman,Woodman,goalkeeper,1.0
+353,14,Armin,Pecsi,Pecsi,goalkeeper,0.0
+354,14,Vitezslav,Jaros,Jaros,goalkeeper,0.0
+355,14,Harvey,Davies,Davies,goalkeeper,0.2
+356,14,Virgil,van Dijk,Virgil,defender,15.8
+357,14,Jeremie,Frimpong,Frimpong,defender,1.6
+358,14,Milos,Kerkez,Kerkez,defender,2.1
+359,14,Joe,Gomez,Gomez,defender,0.0
+360,14,Conor,Bradley,Bradley,defender,0.0
+361,14,Wellity,Lucky,Lucky,defender,0.1
+362,14,Jeremy,Jacquet,Jacquet,defender,3.7
+363,14,Giovanni,Leoni,Leoni,defender,0.0
+364,14,Kostas,Tsimikas,Tsimikas,defender,0.1
+365,14,Calvin,Ramsay,Ramsay,defender,0.1
+366,14,Florian,Wirtz,Wirtz,midfielder,5.2
+367,14,Cody,Gakpo,Gakpo,midfielder,7.7
+368,14,Dominik,Szoboszlai,Szoboszlai,midfielder,27.9
+369,14,Rio,Ngumoha,Ngumoha,midfielder,0.4
+370,14,Federico,Chiesa,Chiesa,midfielder,0.0
+371,14,Ryan,Gravenberch,Gravenberch,midfielder,1.0
+372,14,Alexis,Mac Allister,Mac Allister,midfielder,1.3
+373,14,Curtis,Jones,C.Jones,midfielder,0.0
+374,14,Endo,Wataru,Endo,midfielder,0.1
+375,14,Trey,Nyoni,Nyoni,midfielder,0.0
+376,14,Stefan,Bajčetić Maquieira,Bajcetic,midfielder,0.0
+377,14,Victor,Munoz,Munoz,midfielder,0.8
+378,14,James,McConnell,McConnell,midfielder,0.2
+379,14,Alexander,Isak,Isak,forward,14.3
+380,14,Hugo,Ekitiké,Ekitiké,forward,0.1
+381,14,Lewis,Koumas,Koumas,midfielder,0.0
+382,14,Jayden,Danns,Danns,forward,0.3
+383,14,Harvey,Elliott,Elliott,midfielder,0.0
+579,14,Ronald,Araujo,Araujo,defender,3.1
+627,14,Bradley,Barcola,Barcola,midfielder,2.0
+155,15,Enzo,Fernández,Enzo,midfielder,3.8
+237,15,Iliman,Ndiaye,Ndiaye,midfielder,5.7
+384,15,Gianluigi,Donnarumma,Donnarumma,goalkeeper,7.6
+386,15,Marcus,Bettinelli,Bettinelli,goalkeeper,0.0
+387,15,Nico,O'Reilly,O'Reilly,defender,9.5
+388,15,Marc,Guéhi,Guéhi,defender,17.9
+389,15,Matheus,Nunes,Matheus N.,defender,1.0
+390,15,Rúben,dos Santos Gato Alves Dias,Rúben,defender,1.9
+391,15,Joško,Gvardiol,Gvardiol,defender,28.1
+392,15,Rayan,Aït-Nouri,Aït-Nouri,defender,0.4
+393,15,Abdukodir,Khusanov,Khusanov,defender,1.3
+394,15,Max,Alleyne,Alleyne,defender,0.0
+395,15,Rico,Lewis,Lewis,defender,0.2
+396,15,Vitor,de Oliveira Nunes dos Reis,Vitor Reis,defender,0.0
+397,15,Antoine,Semenyo,Semenyo,midfielder,13.7
+398,15,Phil,Foden,Foden,midfielder,1.5
+399,15,Rayan,Cherki,Cherki,midfielder,31.8
+400,15,Jérémy,Doku,Doku,midfielder,1.2
+402,15,Rodrigo 'Rodri',Hernandez Cascante,Rodrigo,midfielder,0.0
+404,15,Tijjani,Reijnders,Reijnders,midfielder,0.0
+406,15,Mateo,Kovačić,Kovačić,midfielder,0.1
+407,15,Claudio,Echeverri,Echeverri,midfielder,0.0
+408,15,Kalvin,Phillips,Phillips,midfielder,0.0
+409,15,Divine,Mukasa,Mukasa,midfielder,0.1
+410,15,Jeremy,Monga,Monga,midfielder,0.0
+411,15,Erling,Haaland,Haaland,forward,75.2
+481,15,Elliot,Anderson,Anderson,midfielder,3.9
+587,15,Gerónimo,Rulli,Rulli,goalkeeper,0.0
+616,15,Ayyoub,Bouaddi,Bouaddi,midfielder,0.2
+621,15,Ryan,McAidoo,McAidoo,midfielder,0.1
+622,15,Kaden,Braithwaite,Braithwaite,defender,0.2
+628,15,Allan,Andrade Elias,Allan,midfielder,0.0
+653,15,Floyd,Samba,Samba,midfielder,0.0
+43,16,Youri,Tielemans,Tielemans,midfielder,1.4
+131,16,Carlos,Baleba,Baleba,midfielder,0.2
+162,16,Andrey,Nascimento dos Santos,Andrey Santos,midfielder,0.5
+325,16,Karl,Darlow,Darlow,goalkeeper,0.0
+412,16,Senne,Lammens,Lammens,goalkeeper,9.2
+413,16,Altay,Bayındır,Bayindir,goalkeeper,0.0
+414,16,Tom,Heaton,Heaton,goalkeeper,0.1
+415,16,Patrick,Dorgu,Dorgu,midfielder,0.4
+416,16,Matthijs,de Ligt,De Ligt,defender,0.0
+417,16,Diogo,Dalot Teixeira,Dalot,defender,1.5
+418,16,Harry,Maguire,Maguire,defender,7.5
+419,16,Lisandro,Martínez,Martinez,defender,1.3
+420,16,Leny,Yoro,Yoro,defender,0.5
+421,16,Ayden,Heaven,Heaven,defender,0.2
+422,16,Noussair,Mazraoui,Mazraoui,defender,0.4
+423,16,Luke,Shaw,Shaw,defender,6.7
+424,16,Harry,Amass,Amass,defender,0.2
+425,16,Tyler,Fredricson,Fredricson,defender,0.0
+426,16,Bruno,Borges Fernandes,B.Fernandes,midfielder,34.6
+427,16,Bryan,Mbeumo,Mbeumo,midfielder,19.9
+428,16,Matheus,Santos Carneiro da Cunha,Cunha,midfielder,6.4
+429,16,Marcus,Rashford,Rashford,midfielder,1.3
+430,16,Mason,Mount,Mount,midfielder,0.0
+431,16,Amad,Diallo,Amad,midfielder,0.3
+432,16,Kobbie,Mainoo,Mainoo,midfielder,1.5
+433,16,Manuel,Ugarte Ribeiro,Ugarte,midfielder,0.0
+434,16,Jack,Fletcher,J.Fletcher,midfielder,0.0
+435,16,Shea,Lacey,Lacey,midfielder,0.1
+436,16,Toby,Collyer,Collyer,midfielder,0.0
+437,16,Bendito,Mantato,Bendito Mantato,midfielder,0.2
+438,16,Tyler,Fletcher,Fletcher,midfielder,0.3
+439,16,Benjamin,Sesko,Šeško,forward,1.3
+440,16,Joshua,Zirkzee,Zirkzee,forward,0.4
+441,16,Chido,Obi,Obi,forward,0.8
+405,17,Nico,González Iglesias,N.Gonzalez,midfielder,0.2
+442,17,Nick,Pope,Pope,goalkeeper,0.9
+443,17,Mark,Gillespie,Gillespie,goalkeeper,0.0
+444,17,Ewen,Jaouen,Jaouen,goalkeeper,0.0
+445,17,Malick,Thiaw,Thiaw,defender,2.1
+446,17,Fabian,Schär,Schär,defender,0.2
+447,17,Sven,Botman,Botman,defender,0.8
+448,17,Dan,Burn,Burn,defender,0.7
+449,17,Lewis,Hall,Hall,defender,20.7
+450,17,Tino,Livramento,Livramento,defender,0.1
+451,17,Alex,Murphy,A.Murphy,defender,0.1
+453,17,Harvey,Barnes,Barnes,midfielder,8.1
+454,17,Anthony,Elanga,Elanga,midfielder,3.1
+456,17,Jacob,Ramsey,J.Ramsey,midfielder,0.2
+457,17,Jacob,Murphy,J.Murphy,midfielder,0.1
+458,17,Joelinton Cássio,Apolinário de Lira,Joelinton,midfielder,0.0
+459,17,Lewis,Miley,L.Miley,midfielder,0.1
+460,17,Joe,Willock,Willock,midfielder,0.6
+461,17,Bazoumana,Touré,Touré,midfielder,0.1
+462,17,Sean,Steur,Steur,midfielder,0.1
+463,17,Nick,Woltemade,Woltemade,forward,0.4
+464,17,Yoane,Wissa,Wissa,forward,18.1
+465,17,William,Osula,Osula,forward,0.3
+466,17,Sean,Neave,Neave,forward,0.5
+559,17,Aladji,Bamba,Bamba,midfielder,0.1
+567,17,Lukás,Hornícek,Horníček,goalkeeper,1.5
+593,17,Amar,Dedic,Dedić,defender,1.4
+609,17,Leo,Shahar,Shahar,defender,0.2
+634,17,Matias,Fernandez-Pardo,Fernandez-Pardo,forward,0.1
+659,17,Mason,Miley,Miley,midfielder,0.1
+663,17,Miodrag,Pivas,Pivas,defender,0.0
+664,17,Vakhtang,Salia,Salia,forward,0.3
+665,17,Michael,Mills,Mills,midfielder,0.0
+666,17,Kyran,Thompson,Thompson,midfielder,0.0
+167,18,Liam,Delap,Delap,forward,2.3
+201,18,Daniel,Muñoz Mejía,Muñoz,defender,5.2
+467,18,Matz,Sels,Sels,goalkeeper,1.5
+468,18,John Victor,Maciel Furtado,John,goalkeeper,0.1
+469,18,Neco,Williams,N.Williams,defender,6.8
+470,18,Felipe,Rodrigues da Silva,Morato,defender,0.0
+471,18,Nikola,Milenković,Milenković,defender,0.8
+472,18,Murillo,Costa dos Santos,Murillo,defender,2.1
+473,18,Ola,Aina,Aina,defender,2.0
+474,18,Jair,Paula da Cunha Filho,Jair Cunha,defender,0.2
+475,18,Nicolò,Savona,Savona,defender,0.0
+476,18,Omar,Richards,O.Richards,defender,0.2
+477,18,Zach,Abbott,Abbott,defender,0.1
+478,18,Luca,Netz,Netz,defender,0.0
+479,18,Tyler,Bindon,Bindon,defender,0.1
+480,18,Morgan,Gibbs-White,Gibbs-White,midfielder,14.8
+482,18,Callum,Hudson-Odoi,Hudson-Odoi,midfielder,0.1
+483,18,Dan,Ndoye,Ndoye,midfielder,0.6
+484,18,Omari,Hutchinson,Hutchinson,midfielder,0.1
+485,18,Dilane,Bakwa,Bakwa,midfielder,0.0
+486,18,James,McAtee,McAtee,midfielder,0.1
+487,18,Nicolás,Domínguez,Dominguez,midfielder,0.1
+488,18,Ibrahim,Sangaré,I.Sangaré,midfielder,0.4
+489,18,Ryan,Yates,Yates,midfielder,1.1
+490,18,Chris,Wood,Wood,forward,0.9
+491,18,Igor Jesus,Maciel da Cruz,Igor Jesus,forward,1.9
+493,18,Arnaud,Kalimuendo,Kalimuendo,forward,0.0
+558,18,Xaver,Schlager,Schlager,midfielder,0.1
+581,18,Ousmane,Diomande,Diomande,defender,0.5
+590,18,Steven,Benda,Benda,goalkeeper,0.1
+112,19,Jan Paul,van Hecke,Van Hecke,defender,6.3
+147,19,Tosin,Adarabioyo,Tosin,defender,0.1
+401,19,Omar,Marmoush,Marmoush,forward,2.1
+403,19,Sávio,Moreira de Oliveira,Sávio,midfielder,0.7
+455,19,Sandro,Tonali,Tonali,midfielder,1.8
+494,19,Guglielmo,Vicario,Vicario,goalkeeper,0.1
+495,19,Brandon,Austin,Austin,goalkeeper,1.0
+496,19,Antonín,Kinský,Kinsky,goalkeeper,15.7
+497,19,Martin,Dubravka,Dubravka,goalkeeper,16.8
+498,19,Marcos,Senesi Barón,Senesi,defender,3.3
+499,19,Pedro,Porro Sauceda,Pedro Porro,defender,5.8
+500,19,Cristian,Romero,Romero,defender,0.1
+502,19,Andrew,Robertson,Robertson,defender,2.3
+503,19,Micky,van de Ven,Van de Ven,defender,3.7
+505,19,Djed,Spence,Spence,defender,0.2
+506,19,Destiny,Udogie,Udogie,defender,0.3
+507,19,Ashley,Phillips,Phillips,defender,0.0
+508,19,Ben,Davies,Davies,defender,0.9
+509,19,Jun'ai,Byfield,Byfield,defender,0.1
+510,19,James,Rowswell,Rowswell,defender,0.1
+511,19,João Victor,de Souza Menezes,Souza,defender,0.1
+512,19,Mohammed,Kudus,Kudus,midfielder,0.2
+513,19,Xavi,Simons,Xavi,midfielder,0.0
+514,19,Mathys,Tel,Tel,midfielder,0.2
+515,19,James,Maddison,Maddison,midfielder,0.4
+516,19,Rodrigo,Bentancur,Bentancur,midfielder,0.2
+517,19,Wilson,Odobert,Odobert,midfielder,0.0
+518,19,Pape Matar,Sarr,P.M.Sarr,midfielder,0.1
+519,19,Conor,Gallagher,Gallagher,midfielder,0.2
+520,19,Lucas,Bergvall,Bergvall,midfielder,0.1
+521,19,Dejan,Kulusevski,Kulusevski,midfielder,0.0
+522,19,Archie,Gray,Gray,midfielder,0.2
+523,19,Mikey,Moore,Moore,midfielder,0.0
+524,19,Callum,Olusesi,Olusesi,midfielder,0.9
+525,19,Mateus,Fernandes,Fernandes,midfielder,0.7
+526,19,Dominic,Solanke-Mitchell,Solanke,forward,1.1
+527,19,Richarlison,de Andrade,Richarlison,forward,0.6
+528,19,Dane,Scarlett,Scarlett,forward,1.0
+578,19,Mykhailo,Mudryk,Mudryk,midfielder,0.0
+601,19,Luca,Williams-Barnett,Williams-Barnett,midfielder,0.1
+501,20,Kevin,Danso,Danso,defender,0.2
+529,20,Robin,Roefs,Roefs,goalkeeper,2.3
+530,20,Anthony,Patterson,Patterson,goalkeeper,0.1
+531,20,Melker,Ellborg,Ellborg,goalkeeper,0.1
+532,20,Daniel,Ballard,Ballard,defender,1.7
+533,20,Nordi,Mukiele,Mukiele,defender,1.8
+534,20,Trai,Hume,Hume,defender,2.3
+535,20,Omar,Alderete,Alderete,defender,0.2
+536,20,Reinildo,Mandava,Reinildo,defender,0.2
+537,20,Jenson,Seelt,Seelt,defender,0.0
+538,20,Leo Fuhr,Hjelde,Hjelde,defender,0.0
+539,20,Luke,O'Nien,O'Nien,defender,2.5
+540,20,Arthur,Masuaku,Masuaku,defender,0.1
+541,20,Thomas,Meunier,Meunier,defender,0.3
+542,20,Enzo,Le Fée,E.Le Fée,midfielder,3.1
+543,20,Habib,Diarra,Diarra,midfielder,0.0
+544,20,Granit,Xhaka,Xhaka,midfielder,3.3
+545,20,Noah,Sadiki,Sadiki,midfielder,0.2
+546,20,Simon,Adingra,Adingra,midfielder,0.0
+547,20,Romaine,Mundle,Mundle,midfielder,0.0
+548,20,Chris,Rigg,Rigg,midfielder,0.0
+549,20,Chemsdine,Talbi,Talbi,midfielder,0.1
+550,20,Djiamgone Jocelin Ta,Bi,Jocelin.T,midfielder,0.0
+551,20,Nilson,Angulo,N.Angulo,midfielder,0.1
+552,20,Brian,Brobbey,Brobbey,forward,5.1
+553,20,Wilson,Isidor,Isidor,forward,1.3
+612,20,Dayann,Méthalie,Methalie,defender,0.0
+613,20,Jules,Ahoka,Ahoka,midfielder,0.2
+646,20,Malick,Fofana,Fofana,midfielder,0.0
+651,20,Juan,Angulo,J.Angulo,forward,0.8
