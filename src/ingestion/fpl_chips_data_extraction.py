@@ -24,7 +24,7 @@ engine = create_engine("mysql+pymysql://root:@localhost/fpl_database")
 df_chips.to_sql(
     name= "fpl_chips",
     con= engine,
-    if_exists="append",
+    if_exists="replace",
     index=False
     )
 

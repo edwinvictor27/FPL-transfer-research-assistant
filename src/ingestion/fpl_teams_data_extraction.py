@@ -24,7 +24,7 @@ connection = create_engine("mysql+pymysql://root:@localhost/fpl_database")
 fpl_team_df.to_sql(
     name="fpl_teams",
     con=connection,
-    if_exists="append",
+    if_exists="replace",
     index=False
 )
 

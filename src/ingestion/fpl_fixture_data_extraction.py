@@ -73,14 +73,14 @@ engine = create_engine(
 fixtures_df.to_sql(
     "fixtures",
     con=engine,
-    if_exists="append",
+    if_exists="replace",
     index=False
 )
 
 stats_df.to_sql(
     "fixture_player_stats",
     con=engine,
-    if_exists="append",
+    if_exists="replace",
     index=False
 )
 
