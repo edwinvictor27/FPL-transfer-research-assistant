@@ -12,7 +12,6 @@ load_dotenv(override=True)
 # Databricks configuration
 host = os.getenv("DATABRICKS_HOST", "").strip().rstrip("/")
 token = os.getenv("DATABRICKS_TOKEN", "").strip()
-
 if not host or not token:
     raise ValueError("Missing Databricks credentials in .env")
 
@@ -21,7 +20,7 @@ client = WorkspaceClient(host=host, token=token)
 # Destination folder in Databricks Workspace
 raw_folder = (
     "/Workspace/Users/edwinvictor73@gmail.com/"
-    "FPL-transfer-research-assistant/src/Raw_Data"
+    "FPL-transfer-research-assistant/src/Data/Raw_Data" 
 )
 
 # Local MySQL connection
@@ -62,7 +61,6 @@ try:
                 format=ImportFormat.RAW,
                 overwrite=True
             )
-
 
             print(
                 f"SUCCESS: {table_name} -> "

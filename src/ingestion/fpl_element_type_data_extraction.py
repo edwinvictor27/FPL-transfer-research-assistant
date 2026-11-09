@@ -35,7 +35,7 @@ engine = create_engine("mysql+pymysql://root:@localhost/fpl_database")
 df_positions.to_sql(
     name="player_positions_fpl",
     con=engine,
-    if_exists='append',
+    if_exists='replace',
     index=False
 )
 
