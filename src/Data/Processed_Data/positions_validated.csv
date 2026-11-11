@@ -1,0 +1,5 @@
+index,Position_Name_Full,Position_Name_Short,Maximum_Players_Allowed,Player_Count
+0,Goalkeeper,GKP,2,73
+1,Defender,DEF,5,217
+2,Midfielder,MID,5,298
+3,Forward,FWD,3,79

@@ -1,0 +1,9 @@
+Chip_Name,Start_Gameweek,End_Gameweek,chip_type
+wildcard,2,19,transfer
+wildcard,20,38,transfer
+freehit,2,19,transfer
+bboost,1,19,team
+3xc,1,19,team
+freehit,20,38,transfer
+bboost,20,38,team
+3xc,20,38,team
