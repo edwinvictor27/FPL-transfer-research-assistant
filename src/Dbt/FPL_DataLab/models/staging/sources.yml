@@ -1,0 +1,13 @@
+version: 2
+
+sources: 
+  - name: fpl
+    catalog: main
+    schema: fpl 
+    tables:
+      - name: fpl_chips
+      - name: clubs
+      - name: fixture_player_stats
+      - name: fixture_team_stats
+      - name: fpl_player_data
+      - name: fpl_player_positions 
