@@ -14,3 +14,4 @@ sources:
       - name: fpl_defenders
       - name: fpl_forwards
       - name: fpl_goalkeepers
+      - name: fpl_midfielders
