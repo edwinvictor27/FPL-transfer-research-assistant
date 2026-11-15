@@ -1,0 +1,62 @@
+version: 2
+
+models:
+  - name: int_player_information
+    columns: 
+      - name: player_id
+        data_tests: 
+          - unique
+          - not_null
+
+  - name: int_player_attacking_statistics
+    columns: 
+      - name: player_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: int_player_defensive_statistics
+    columns:
+      - name: player_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: int_player_market_statistics
+    columns: 
+      - name: player_id
+        data_tests: 
+          - unique
+          - not_null
+
+  - name: int_player_performance_rankings
+    columns: 
+      - name : player_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: int_player_performance_statistics
+    columns: 
+      - name: player_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: int_player_set_piece_responsibilities
+    columns:
+      - name: player_id
+        data_tests:
+          - unique
+          - not_null
+
+
+
+
+
+
+
+
+
+
+

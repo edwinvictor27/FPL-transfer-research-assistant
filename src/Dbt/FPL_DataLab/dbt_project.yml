@@ -33,7 +33,9 @@ models:
   FPL_DataLab:
     staging:
       +materialized: view
-    intermediate:
+    Intermediate:
+      +materialized: view
+    marts:
       +materialized: view
     # Config indicated by + and applies to all files under models/example/
     example:
