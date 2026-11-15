@@ -11,3 +11,7 @@ sources:
       - name: fixture_team_stats
       - name: fpl_player_data
       - name: fpl_player_positions 
+      - name: fpl_defenders
+      - name: fpl_forwards
+      - name: fpl_goalkeepers
+      - name: fpl_midfielders

@@ -1,5 +1,7 @@
-
 target/
 dbt_packages/
 logs/
 .env
+
+#logs files 
+*.log 
