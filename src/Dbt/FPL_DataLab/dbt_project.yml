@@ -35,6 +35,13 @@ models:
       +materialized: view
     Intermediate:
       +materialized: view
+    
+      int_player_attacking_statistics:
+        +materialized: ephemeral
+
+      int_player_gameweek_fixture_details:
+        +materialized: ephemeral
+
     marts:
       +materialized: view
     # Config indicated by + and applies to all files under models/example/
