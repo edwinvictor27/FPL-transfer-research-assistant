@@ -9,8 +9,6 @@ WITH player_fixture_stats AS (
 
     FROM {{ref('stg_fixture_player_stats')}}
 
-    WHERE fixture_id = 1
-
     GROUP BY
         fixture_id,
         player_id,

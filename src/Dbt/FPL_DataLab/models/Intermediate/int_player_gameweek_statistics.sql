@@ -36,6 +36,7 @@ player_gameweek_stats AS (
     SELECT
         player_id,
         team_id,
+        fixture_id,
         gameweek,
 
         SUM(goals_scored) AS goals_scored,
@@ -54,6 +55,7 @@ player_gameweek_stats AS (
 
     GROUP BY
         player_id,
+        fixture_id,
         team_id,
         gameweek
 
