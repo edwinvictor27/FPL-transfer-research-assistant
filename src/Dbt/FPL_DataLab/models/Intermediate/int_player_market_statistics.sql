@@ -4,6 +4,8 @@ SELECT
     first_name AS player_first_name,
     second_name AS player_last_name,
     web_name AS player_display_name,
+    minutes as total_minutes_played,
+    starts as total_games_starts,
     form AS recent_form_rating,
     Value_form AS form_value_ratio,
     value_season AS season_value_ratio,
